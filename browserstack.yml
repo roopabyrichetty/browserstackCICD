@@ -1,0 +1,51 @@
+userName: carlastata_TQdEoa
+accessKey: UrxkhvgxBstWxuvpSVcs
+projectName: Bentley.com_PROD
+buildName: Test_BentleyPROD
+# Read more about buildIdentifiers here -> https://www.browserstack.com/docs/automate/selenium/organize-tests
+buildIdentifier: '#${BUILD_NUMBER}' # Supports strings along with either/both ${expression}
+source: nunit:sample-sdk:v1.0
+# =======================================
+# Platforms (Browsers / Devices to test)
+# =======================================
+# Platforms object contains all the browser / device combinations you want to test on.
+# Entire list available here -> (https://www.browserstack.com/list-of-browsers-and-platforms/automate)
+platforms:
+   - os: Windows
+     osVersion: 11
+     browserName: Chrome
+     browserVersion: 103.0    
+   - os: Windows
+     osVersion: 10
+     browserName: Firefox
+     browserVersion: 102.0    
+   - os: OS X
+     osVersion: Big Sur
+     browserName: Safari
+     browserVersion: 14.1    
+   - os: Windows
+     osVersion: 11
+     browserName: Edge
+     browserVersion: latest    
+
+# ==========================================
+# BrowserStack Local
+# (For localhost, staging/private websites)
+# ==========================================
+# Set browserStackLocal to true if your website under test is not accessible publicly over the internet
+# Learn more about how BrowserStack Local works here -> https://www.browserstack.com/docs/automate/selenium/local-testing-introduction
+browserstackLocal: true # <boolean> (Default false)
+
+# browserStackLocalOptions:
+# Options to be passed to BrowserStack local in-case of advanced configurations
+  # localIdentifier: # <string> (Default: null) Needed if you need to run multiple instances of local.
+  # forceLocal: true  # <boolean> (Default: false) Set to true if you need to resolve all your traffic via BrowserStack Local tunnel.
+  # Entire list of arguments availabe here -> https://www.browserstack.com/docs/automate/selenium/manage-incoming-connections
+
+# ===================
+# Debugging features
+# ===================
+debug: false # <boolean> # Set to true if you need screenshots for every selenium command ran
+networkLogs: false # <boolean> Set to true to enable HAR logs capturing
+consoleLogs: errors # <string> Remote browser's console debug levels to be printed (Default: errors)
+# Available options are `disable`, `errors`, `warnings`, `info`, `verbose` (Default: errors)

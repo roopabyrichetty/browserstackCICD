@@ -1,0 +1,93 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Roopa.Byrichetty\\source\\repos\\ParallelTest_TestingCICD\\nunit-browserstack-sdk\\NUnit-BrowserStack\\NUnit-BrowserStack.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Roopa.Byrichetty\\source\\repos\\ParallelTest_TestingCICD\\nunit-browserstack-sdk\\NUnit-BrowserStack\\NUnit-BrowserStack.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Roopa.Byrichetty\\source\\repos\\ParallelTest_TestingCICD\\nunit-browserstack-sdk\\NUnit-BrowserStack\\NUnit-BrowserStack.csproj",
+        "projectName": "SingleTest",
+        "projectPath": "C:\\Users\\Roopa.Byrichetty\\source\\repos\\ParallelTest_TestingCICD\\nunit-browserstack-sdk\\NUnit-BrowserStack\\NUnit-BrowserStack.csproj",
+        "packagesPath": "C:\\Users\\Roopa.Byrichetty\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Roopa.Byrichetty\\source\\repos\\ParallelTest_TestingCICD\\nunit-browserstack-sdk\\NUnit-BrowserStack\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Roopa.Byrichetty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "BrowserStack.TestAdapter": {
+              "target": "Package",
+              "version": "[0.*, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

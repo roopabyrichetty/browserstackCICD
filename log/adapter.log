@@ -1,0 +1,1275 @@
+2023-05-01 22:43:16.6165|INFO|A.b|Setting up adapter
+2023-05-01 22:43:16.6293|INFO|BStack.VisualStudio.TestAdapter.BStackTestExecutor|NUnit test stated from test explorer
+2023-05-01 22:43:16.6293|INFO|A.b|Invoking browserstack-sdk with args: --skip-build-browserstack "C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net6.0\SingleTest.dll" --filter ""(FullyQualifiedName=TestScript.TestCase1.HomePageLoad)""
+2023-05-01 22:43:47.3966|INFO|A.b|Exec: dotnet browserstack-sdk --skip-build-browserstack "C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net6.0\SingleTest.dll" --filter ""(FullyQualifiedName=TestScript.TestCase1.HomePageLoad)""
+2023-05-01 22:43:47.3966|INFO|A.b|0 : 
+2023-05-01 22:43:18.7894|INFO|browserstack_sdk.Program|Detected Selenium version 4.7.0
+2023-05-01 22:43:18.9780|INFO|browserstack_sdk.Program|Detected dotnet version 7.0.203
+2023-05-01 22:43:19.3626|INFO|browserstack_sdk.Program|Starting local
+2023-05-01 22:43:23.9508|INFO|browserstack_sdk.Program|Local started
+2023-05-01 22:43:24.0519|INFO|browserstack_sdk.Program|
+2023-05-01 22:43:24.0519|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>echo "running bat file" 
+2023-05-01 22:43:24.0519|INFO|browserstack_sdk.Program|"running bat file"
+2023-05-01 22:43:24.0519|INFO|browserstack_sdk.Program|
+2023-05-01 22:43:24.0519|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>cd C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack 
+2023-05-01 22:43:24.0519|INFO|browserstack_sdk.Program|
+2023-05-01 22:43:24.0519|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>dotnet test "C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net6.0\SingleTest.dll" --filter "(FullyQualifiedName=TestScript.TestCase1.HomePageLoad)" --no-build  "--logger:trx;LogFileName=C:\Users\Roopa.Byrichetty\AppData\Local\Temp\.browserstack\results_dotnet\result_0\NUnit-Browserstack.xml" 
+2023-05-01 22:43:24.0621|INFO|browserstack_sdk.Program|
+2023-05-01 22:43:24.0621|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>echo "running bat file" 
+2023-05-01 22:43:24.0621|INFO|browserstack_sdk.Program|"running bat file"
+2023-05-01 22:43:24.0621|INFO|browserstack_sdk.Program|
+2023-05-01 22:43:24.0621|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>cd C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack 
+2023-05-01 22:43:24.0621|INFO|browserstack_sdk.Program|
+2023-05-01 22:43:24.0621|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>dotnet test "C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net6.0\SingleTest.dll" --filter "(FullyQualifiedName=TestScript.TestCase1.HomePageLoad)" --no-build  "--logger:trx;LogFileName=C:\Users\Roopa.Byrichetty\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml" 
+2023-05-01 22:43:24.0780|INFO|browserstack_sdk.Program|
+2023-05-01 22:43:24.0780|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>echo "running bat file" 
+2023-05-01 22:43:24.0780|INFO|browserstack_sdk.Program|"running bat file"
+2023-05-01 22:43:24.0780|INFO|browserstack_sdk.Program|
+2023-05-01 22:43:24.0780|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>cd C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack 
+2023-05-01 22:43:24.0780|INFO|browserstack_sdk.Program|
+2023-05-01 22:43:24.0780|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>dotnet test "C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net6.0\SingleTest.dll" --filter "(FullyQualifiedName=TestScript.TestCase1.HomePageLoad)" --no-build  "--logger:trx;LogFileName=C:\Users\Roopa.Byrichetty\AppData\Local\Temp\.browserstack\results_dotnet\result_2\NUnit-Browserstack.xml" 
+2023-05-01 22:43:24.0780|INFO|browserstack_sdk.Program|
+2023-05-01 22:43:24.0780|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>echo "running bat file" 
+2023-05-01 22:43:24.0780|INFO|browserstack_sdk.Program|"running bat file"
+2023-05-01 22:43:24.0780|INFO|browserstack_sdk.Program|
+2023-05-01 22:43:24.0780|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>cd C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack 
+2023-05-01 22:43:24.0780|INFO|browserstack_sdk.Program|
+2023-05-01 22:43:24.0780|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>dotnet test "C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net6.0\SingleTest.dll" --filter "(FullyQualifiedName=TestScript.TestCase1.HomePageLoad)" --no-build  "--logger:trx;LogFileName=C:\Users\Roopa.Byrichetty\AppData\Local\Temp\.browserstack\results_dotnet\result_3\NUnit-Browserstack.xml" 
+2023-05-01 22:43:24.2432|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+2023-05-01 22:43:24.2610|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+2023-05-01 22:43:24.2810|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+2023-05-01 22:43:24.2810|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+2023-05-01 22:43:24.3883|INFO|browserstack_sdk.Program|Microsoft (R) Test Execution Command Line Tool Version 17.5.0 (x64)
+2023-05-01 22:43:24.3883|INFO|browserstack_sdk.Program|Copyright (c) Microsoft Corporation.  All rights reserved.
+2023-05-01 22:43:24.3927|INFO|browserstack_sdk.Program|
+2023-05-01 22:43:24.3927|INFO|browserstack_sdk.Program|Microsoft (R) Test Execution Command Line Tool Version 17.5.0 (x64)
+2023-05-01 22:43:24.3927|INFO|browserstack_sdk.Program|Copyright (c) Microsoft Corporation.  All rights reserved.
+2023-05-01 22:43:24.4056|INFO|browserstack_sdk.Program|
+2023-05-01 22:43:24.4260|INFO|browserstack_sdk.Program|Microsoft (R) Test Execution Command Line Tool Version 17.5.0 (x64)
+2023-05-01 22:43:24.4260|INFO|browserstack_sdk.Program|Microsoft (R) Test Execution Command Line Tool Version 17.5.0 (x64)
+2023-05-01 22:43:24.4260|INFO|browserstack_sdk.Program|Copyright (c) Microsoft Corporation.  All rights reserved.
+2023-05-01 22:43:24.4260|INFO|browserstack_sdk.Program|Copyright (c) Microsoft Corporation.  All rights reserved.
+2023-05-01 22:43:24.4260|INFO|browserstack_sdk.Program|
+2023-05-01 22:43:24.4260|INFO|browserstack_sdk.Program|
+2023-05-01 22:43:24.4957|INFO|browserstack_sdk.Program|Starting test execution, please wait...
+2023-05-01 22:43:24.5092|INFO|browserstack_sdk.Program|Starting test execution, please wait...
+2023-05-01 22:43:24.5246|INFO|browserstack_sdk.Program|A total of 1 test files matched the specified pattern.
+2023-05-01 22:43:24.5301|INFO|browserstack_sdk.Program|Starting test execution, please wait...
+2023-05-01 22:43:24.5301|INFO|browserstack_sdk.Program|Starting test execution, please wait...
+2023-05-01 22:43:24.5301|INFO|browserstack_sdk.Program|A total of 1 test files matched the specified pattern.
+2023-05-01 22:43:24.5603|INFO|browserstack_sdk.Program|A total of 1 test files matched the specified pattern.
+2023-05-01 22:43:24.5613|INFO|browserstack_sdk.Program|A total of 1 test files matched the specified pattern.
+2023-05-01 22:43:24.9606|INFO|browserstack_sdk.Program|Failed to load extensions from file 'C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net6.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+2023-05-01 22:43:24.9749|INFO|browserstack_sdk.Program|Failed to load extensions from file 'C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net6.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+2023-05-01 22:43:24.9913|INFO|browserstack_sdk.Program|Failed to load extensions from file 'C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net6.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+2023-05-01 22:43:24.9913|INFO|browserstack_sdk.Program|Failed to load extensions from file 'C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net6.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+2023-05-01 22:43:36.8920|INFO|browserstack_sdk.Program|Results File: C:\Users\Roopa.Byrichetty\AppData\Local\Temp\.browserstack\results_dotnet\result_0\NUnit-Browserstack.xml
+2023-05-01 22:43:36.8920|INFO|browserstack_sdk.Program|
+2023-05-01 22:43:36.8920|INFO|browserstack_sdk.Program|Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 11 s - SingleTest.dll (net6.0)
+2023-05-01 22:43:36.9256|INFO|browserstack_sdk.Program|
+2023-05-01 22:43:36.9256|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>echo "completed bat file" 
+2023-05-01 22:43:36.9256|INFO|browserstack_sdk.Program|"completed bat file"
+2023-05-01 22:43:38.1996|INFO|browserstack_sdk.Program|Results File: C:\Users\Roopa.Byrichetty\AppData\Local\Temp\.browserstack\results_dotnet\result_3\NUnit-Browserstack.xml
+2023-05-01 22:43:38.1996|INFO|browserstack_sdk.Program|
+2023-05-01 22:43:38.2039|INFO|browserstack_sdk.Program|Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 12 s - SingleTest.dll (net6.0)
+2023-05-01 22:43:38.2327|INFO|browserstack_sdk.Program|
+2023-05-01 22:43:38.2327|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>echo "completed bat file" 
+2023-05-01 22:43:38.2327|INFO|browserstack_sdk.Program|"completed bat file"
+2023-05-01 22:43:39.1021|INFO|browserstack_sdk.Program|Results File: C:\Users\Roopa.Byrichetty\AppData\Local\Temp\.browserstack\results_dotnet\result_2\NUnit-Browserstack.xml
+2023-05-01 22:43:39.1021|INFO|browserstack_sdk.Program|
+2023-05-01 22:43:39.1021|INFO|browserstack_sdk.Program|Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 13 s - SingleTest.dll (net6.0)
+2023-05-01 22:43:39.1279|INFO|browserstack_sdk.Program|
+2023-05-01 22:43:39.1279|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>echo "completed bat file" 
+2023-05-01 22:43:39.1279|INFO|browserstack_sdk.Program|"completed bat file"
+2023-05-01 22:43:44.8756|INFO|browserstack_sdk.Program|Results File: C:\Users\Roopa.Byrichetty\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+2023-05-01 22:43:44.8756|INFO|browserstack_sdk.Program|
+2023-05-01 22:43:44.8756|INFO|browserstack_sdk.Program|Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 19 s - SingleTest.dll (net6.0)
+2023-05-01 22:43:44.9090|INFO|browserstack_sdk.Program|
+2023-05-01 22:43:44.9090|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>echo "completed bat file" 
+2023-05-01 22:43:44.9090|INFO|browserstack_sdk.Program|"completed bat file"
+2023-05-01 22:43:44.9090|INFO|browserstack_sdk.Program|Stopping local
+2023-05-01 22:43:47.3207|INFO|browserstack_sdk.utils|View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/7e25f7ce9726ab13ddb75b80df88d8f739445f3e
+
+
+2023-05-01 22:43:47.3966|INFO|A.b|Cleaning up adapter
+2023-05-01 22:43:47.3966|INFO|A.b|Getting results from: C:\Users\Roopa.Byrichetty\AppData\Local\Temp\.browserstack
+2023-05-01 22:48:11.7721|INFO|A.b|Setting up adapter
+2023-05-01 22:48:11.7837|INFO|BStack.VisualStudio.TestAdapter.BStackTestExecutor|NUnit test stated from test explorer
+2023-05-01 22:48:11.7837|INFO|A.b|Invoking browserstack-sdk with args: --skip-build-browserstack "C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net6.0\SingleTest.dll" --filter ""(FullyQualifiedName=TestScript.TestCase1.HomePageLoad)""
+2023-05-01 22:48:45.2909|INFO|A.b|Exec: dotnet browserstack-sdk --skip-build-browserstack "C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net6.0\SingleTest.dll" --filter ""(FullyQualifiedName=TestScript.TestCase1.HomePageLoad)""
+2023-05-01 22:48:45.2909|INFO|A.b|0 : 
+2023-05-01 22:48:13.9025|INFO|browserstack_sdk.Program|Detected Selenium version 4.7.0
+2023-05-01 22:48:14.0925|INFO|browserstack_sdk.Program|Detected dotnet version 7.0.203
+2023-05-01 22:48:14.4742|INFO|browserstack_sdk.Program|Starting local
+2023-05-01 22:48:19.6203|INFO|browserstack_sdk.Program|Local started
+2023-05-01 22:48:19.7248|INFO|browserstack_sdk.Program|
+2023-05-01 22:48:19.7248|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>echo "running bat file" 
+2023-05-01 22:48:19.7248|INFO|browserstack_sdk.Program|"running bat file"
+2023-05-01 22:48:19.7248|INFO|browserstack_sdk.Program|
+2023-05-01 22:48:19.7248|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>cd C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack 
+2023-05-01 22:48:19.7248|INFO|browserstack_sdk.Program|
+2023-05-01 22:48:19.7248|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>dotnet test "C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net6.0\SingleTest.dll" --filter "(FullyQualifiedName=TestScript.TestCase1.HomePageLoad)" --no-build  "--logger:trx;LogFileName=C:\Users\Roopa.Byrichetty\AppData\Local\Temp\.browserstack\results_dotnet\result_0\NUnit-Browserstack.xml" 
+2023-05-01 22:48:19.7383|INFO|browserstack_sdk.Program|
+2023-05-01 22:48:19.7383|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>echo "running bat file" 
+2023-05-01 22:48:19.7383|INFO|browserstack_sdk.Program|"running bat file"
+2023-05-01 22:48:19.7383|INFO|browserstack_sdk.Program|
+2023-05-01 22:48:19.7383|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>cd C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack 
+2023-05-01 22:48:19.7383|INFO|browserstack_sdk.Program|
+2023-05-01 22:48:19.7383|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>dotnet test "C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net6.0\SingleTest.dll" --filter "(FullyQualifiedName=TestScript.TestCase1.HomePageLoad)" --no-build  "--logger:trx;LogFileName=C:\Users\Roopa.Byrichetty\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml" 
+2023-05-01 22:48:19.7383|INFO|browserstack_sdk.Program|
+2023-05-01 22:48:19.7383|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>echo "running bat file" 
+2023-05-01 22:48:19.7383|INFO|browserstack_sdk.Program|"running bat file"
+2023-05-01 22:48:19.7383|INFO|browserstack_sdk.Program|
+2023-05-01 22:48:19.7383|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>cd C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack 
+2023-05-01 22:48:19.7383|INFO|browserstack_sdk.Program|
+2023-05-01 22:48:19.7383|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>dotnet test "C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net6.0\SingleTest.dll" --filter "(FullyQualifiedName=TestScript.TestCase1.HomePageLoad)" --no-build  "--logger:trx;LogFileName=C:\Users\Roopa.Byrichetty\AppData\Local\Temp\.browserstack\results_dotnet\result_2\NUnit-Browserstack.xml" 
+2023-05-01 22:48:19.7519|INFO|browserstack_sdk.Program|
+2023-05-01 22:48:19.7519|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>echo "running bat file" 
+2023-05-01 22:48:19.7519|INFO|browserstack_sdk.Program|"running bat file"
+2023-05-01 22:48:19.7519|INFO|browserstack_sdk.Program|
+2023-05-01 22:48:19.7519|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>cd C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack 
+2023-05-01 22:48:19.7519|INFO|browserstack_sdk.Program|
+2023-05-01 22:48:19.7519|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>dotnet test "C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net6.0\SingleTest.dll" --filter "(FullyQualifiedName=TestScript.TestCase1.HomePageLoad)" --no-build  "--logger:trx;LogFileName=C:\Users\Roopa.Byrichetty\AppData\Local\Temp\.browserstack\results_dotnet\result_3\NUnit-Browserstack.xml" 
+2023-05-01 22:48:19.9282|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+2023-05-01 22:48:19.9392|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+2023-05-01 22:48:19.9392|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+2023-05-01 22:48:19.9558|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+2023-05-01 22:48:20.0655|INFO|browserstack_sdk.Program|Microsoft (R) Test Execution Command Line Tool Version 17.5.0 (x64)
+2023-05-01 22:48:20.0655|INFO|browserstack_sdk.Program|Copyright (c) Microsoft Corporation.  All rights reserved.
+2023-05-01 22:48:20.0655|INFO|browserstack_sdk.Program|
+2023-05-01 22:48:20.0655|INFO|browserstack_sdk.Program|Microsoft (R) Test Execution Command Line Tool Version 17.5.0 (x64)
+2023-05-01 22:48:20.0655|INFO|browserstack_sdk.Program|Copyright (c) Microsoft Corporation.  All rights reserved.
+2023-05-01 22:48:20.0769|INFO|browserstack_sdk.Program|
+2023-05-01 22:48:20.0769|INFO|browserstack_sdk.Program|Microsoft (R) Test Execution Command Line Tool Version 17.5.0 (x64)
+2023-05-01 22:48:20.0769|INFO|browserstack_sdk.Program|Copyright (c) Microsoft Corporation.  All rights reserved.
+2023-05-01 22:48:20.0769|INFO|browserstack_sdk.Program|Microsoft (R) Test Execution Command Line Tool Version 17.5.0 (x64)
+2023-05-01 22:48:20.0769|INFO|browserstack_sdk.Program|Copyright (c) Microsoft Corporation.  All rights reserved.
+2023-05-01 22:48:20.0928|INFO|browserstack_sdk.Program|
+2023-05-01 22:48:20.0928|INFO|browserstack_sdk.Program|
+2023-05-01 22:48:20.1660|INFO|browserstack_sdk.Program|Starting test execution, please wait...
+2023-05-01 22:48:20.1702|INFO|browserstack_sdk.Program|Starting test execution, please wait...
+2023-05-01 22:48:20.1871|INFO|browserstack_sdk.Program|Starting test execution, please wait...
+2023-05-01 22:48:20.1871|INFO|browserstack_sdk.Program|Starting test execution, please wait...
+2023-05-01 22:48:20.1871|INFO|browserstack_sdk.Program|A total of 1 test files matched the specified pattern.
+2023-05-01 22:48:20.2028|INFO|browserstack_sdk.Program|A total of 1 test files matched the specified pattern.
+2023-05-01 22:48:20.2207|INFO|browserstack_sdk.Program|A total of 1 test files matched the specified pattern.
+2023-05-01 22:48:20.2207|INFO|browserstack_sdk.Program|A total of 1 test files matched the specified pattern.
+2023-05-01 22:48:20.6250|INFO|browserstack_sdk.Program|Failed to load extensions from file 'C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net6.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+2023-05-01 22:48:20.6250|INFO|browserstack_sdk.Program|Failed to load extensions from file 'C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net6.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+2023-05-01 22:48:20.6450|INFO|browserstack_sdk.Program|Failed to load extensions from file 'C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net6.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+2023-05-01 22:48:20.6450|INFO|browserstack_sdk.Program|Failed to load extensions from file 'C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net6.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+2023-05-01 22:48:31.3373|INFO|browserstack_sdk.Program|Results File: C:\Users\Roopa.Byrichetty\AppData\Local\Temp\.browserstack\results_dotnet\result_0\NUnit-Browserstack.xml
+2023-05-01 22:48:31.3373|INFO|browserstack_sdk.Program|
+2023-05-01 22:48:31.3373|INFO|browserstack_sdk.Program|Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 9 s - SingleTest.dll (net6.0)
+2023-05-01 22:48:31.3700|INFO|browserstack_sdk.Program|
+2023-05-01 22:48:31.3700|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>echo "completed bat file" 
+2023-05-01 22:48:31.3700|INFO|browserstack_sdk.Program|"completed bat file"
+2023-05-01 22:48:31.8088|INFO|browserstack_sdk.Program|Results File: C:\Users\Roopa.Byrichetty\AppData\Local\Temp\.browserstack\results_dotnet\result_3\NUnit-Browserstack.xml
+2023-05-01 22:48:31.8088|INFO|browserstack_sdk.Program|
+2023-05-01 22:48:31.8140|INFO|browserstack_sdk.Program|Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 10 s - SingleTest.dll (net6.0)
+2023-05-01 22:48:31.8425|INFO|browserstack_sdk.Program|
+2023-05-01 22:48:31.8425|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>echo "completed bat file" 
+2023-05-01 22:48:31.8425|INFO|browserstack_sdk.Program|"completed bat file"
+2023-05-01 22:48:34.3774|INFO|browserstack_sdk.Program|Results File: C:\Users\Roopa.Byrichetty\AppData\Local\Temp\.browserstack\results_dotnet\result_2\NUnit-Browserstack.xml
+2023-05-01 22:48:34.3774|INFO|browserstack_sdk.Program|
+2023-05-01 22:48:34.3774|INFO|browserstack_sdk.Program|Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 12 s - SingleTest.dll (net6.0)
+2023-05-01 22:48:34.4135|INFO|browserstack_sdk.Program|
+2023-05-01 22:48:34.4135|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>echo "completed bat file" 
+2023-05-01 22:48:34.4135|INFO|browserstack_sdk.Program|"completed bat file"
+2023-05-01 22:48:42.8164|INFO|browserstack_sdk.Program|Results File: C:\Users\Roopa.Byrichetty\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+2023-05-01 22:48:42.8164|INFO|browserstack_sdk.Program|
+2023-05-01 22:48:42.8164|INFO|browserstack_sdk.Program|Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 21 s - SingleTest.dll (net6.0)
+2023-05-01 22:48:42.8431|INFO|browserstack_sdk.Program|
+2023-05-01 22:48:42.8431|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>echo "completed bat file" 
+2023-05-01 22:48:42.8431|INFO|browserstack_sdk.Program|"completed bat file"
+2023-05-01 22:48:42.8431|INFO|browserstack_sdk.Program|Stopping local
+2023-05-01 22:48:45.2089|INFO|browserstack_sdk.utils|View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/1ad4f877116690b12e1607f748a8524e1c4f4efd
+
+
+2023-05-01 22:48:45.2909|INFO|A.b|Cleaning up adapter
+2023-05-01 22:48:45.2909|INFO|A.b|Getting results from: C:\Users\Roopa.Byrichetty\AppData\Local\Temp\.browserstack
+2023-05-01 23:26:37.7376|INFO|A.b|Setting up adapter
+2023-05-01 23:26:37.7491|INFO|BStack.VisualStudio.TestAdapter.BStackTestExecutor|NUnit test stated from test explorer
+2023-05-01 23:26:37.7491|INFO|A.b|Invoking browserstack-sdk with args: --skip-build-browserstack "C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net6.0\SingleTest.dll" --filter ""(FullyQualifiedName=TestScript.TestCase1.HomePageLoad|FullyQualifiedName=TestScript.TestCase10.ScrollToTop|FullyQualifiedName=TestScript.TestCase11.CheckHeaderExists|FullyQualifiedName=TestScript.TestCase12.CheckFooterExists|FullyQualifiedName=TestScript.TestCase13.CheckHeaderNavigationExists|FullyQualifiedName=TestScript.TestCase14.CheckSubHeaderNavigationExists|FullyQualifiedName=TestScript.TestCase15.CheckFooterNavExistence|FullyQualifiedName=TestScript.TestCase16.ProfileSignIn|FullyQualifiedName=TestScript.TestCase17.PageLoadTime|FullyQualifiedName=TestScript.TestCase18.CheckIframeloaded|FullyQualifiedName=TestScript.TestCase19.SearchNewsRoom|FullyQualifiedName=TestScript.TestCase2.SearchResources|FullyQualifiedName=TestScript.TestCase20.SearchChannelPartners|FullyQualifiedName=TestScript.TestCase21.SearchProductTrainingPartners|FullyQualifiedName=TestScript.TestCase22.SearchSoftware|FullyQualifiedName=TestScript.TestCase23.AccessibilityWidgetCheck|FullyQualifiedName=TestScript.TestCase24.AccessibilityWidgetFontSizeCheck|FullyQualifiedName=TestScript.TestCase25.CheckYoutubeVideo|FullyQualifiedName=TestScript.TestCase26.CheckChatonPLAXIS|FullyQualifiedName=TestScript.TestCase27.GenericSearchForTwoWords|FullyQualifiedName=TestScript.TestCase28.SearchForEmptyResults|FullyQualifiedName=TestScript.TestCase29.SearchifSubNavExists_CADSoftware|FullyQualifiedName=TestScript.TestCase3.GenericSearch|FullyQualifiedName=TestScript.TestCase4.VideoCheckAboutUS|FullyQualifiedName=TestScript.TestCase5.VideoCheckSynchro|FullyQualifiedName=TestScript.TestCase6.Pencil_banner|FullyQualifiedName=TestScript.TestCase9.CheckLogoloaded)""
+2023-05-01 23:40:21.1688|INFO|A.b|Exec: dotnet browserstack-sdk --skip-build-browserstack "C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net6.0\SingleTest.dll" --filter ""(FullyQualifiedName=TestScript.TestCase1.HomePageLoad|FullyQualifiedName=TestScript.TestCase10.ScrollToTop|FullyQualifiedName=TestScript.TestCase11.CheckHeaderExists|FullyQualifiedName=TestScript.TestCase12.CheckFooterExists|FullyQualifiedName=TestScript.TestCase13.CheckHeaderNavigationExists|FullyQualifiedName=TestScript.TestCase14.CheckSubHeaderNavigationExists|FullyQualifiedName=TestScript.TestCase15.CheckFooterNavExistence|FullyQualifiedName=TestScript.TestCase16.ProfileSignIn|FullyQualifiedName=TestScript.TestCase17.PageLoadTime|FullyQualifiedName=TestScript.TestCase18.CheckIframeloaded|FullyQualifiedName=TestScript.TestCase19.SearchNewsRoom|FullyQualifiedName=TestScript.TestCase2.SearchResources|FullyQualifiedName=TestScript.TestCase20.SearchChannelPartners|FullyQualifiedName=TestScript.TestCase21.SearchProductTrainingPartners|FullyQualifiedName=TestScript.TestCase22.SearchSoftware|FullyQualifiedName=TestScript.TestCase23.AccessibilityWidgetCheck|FullyQualifiedName=TestScript.TestCase24.AccessibilityWidgetFontSizeCheck|FullyQualifiedName=TestScript.TestCase25.CheckYoutubeVideo|FullyQualifiedName=TestScript.TestCase26.CheckChatonPLAXIS|FullyQualifiedName=TestScript.TestCase27.GenericSearchForTwoWords|FullyQualifiedName=TestScript.TestCase28.SearchForEmptyResults|FullyQualifiedName=TestScript.TestCase29.SearchifSubNavExists_CADSoftware|FullyQualifiedName=TestScript.TestCase3.GenericSearch|FullyQualifiedName=TestScript.TestCase4.VideoCheckAboutUS|FullyQualifiedName=TestScript.TestCase5.VideoCheckSynchro|FullyQualifiedName=TestScript.TestCase6.Pencil_banner|FullyQualifiedName=TestScript.TestCase9.CheckLogoloaded)""
+2023-05-01 23:40:21.1688|INFO|A.b|0 : 
+2023-05-01 23:26:40.1871|INFO|browserstack_sdk.Program|Detected Selenium version 4.7.0
+2023-05-01 23:26:40.3910|INFO|browserstack_sdk.Program|Detected dotnet version 7.0.203
+2023-05-01 23:26:40.8263|INFO|browserstack_sdk.Program|Starting local
+2023-05-01 23:26:45.9585|INFO|browserstack_sdk.Program|Local started
+2023-05-01 23:26:46.0739|INFO|browserstack_sdk.Program|
+2023-05-01 23:26:46.0739|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>echo "running bat file" 
+2023-05-01 23:26:46.0739|INFO|browserstack_sdk.Program|"running bat file"
+2023-05-01 23:26:46.0739|INFO|browserstack_sdk.Program|
+2023-05-01 23:26:46.0739|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>cd C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack 
+2023-05-01 23:26:46.0739|INFO|browserstack_sdk.Program|
+2023-05-01 23:26:46.0739|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>dotnet test "C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net6.0\SingleTest.dll" --filter "(FullyQualifiedName=TestScript.TestCase1.HomePageLoad|FullyQualifiedName=TestScript.TestCase10.ScrollToTop|FullyQualifiedName=TestScript.TestCase11.CheckHeaderExists|FullyQualifiedName=TestScript.TestCase12.CheckFooterExists|FullyQualifiedName=TestScript.TestCase13.CheckHeaderNavigationExists|FullyQualifiedName=TestScript.TestCase14.CheckSubHeaderNavigationExists|FullyQualifiedName=TestScript.TestCase15.CheckFooterNavExistence|FullyQualifiedName=TestScript.TestCase16.ProfileSignIn|FullyQualifiedName=TestScript.TestCase17.PageLoadTime|FullyQualifiedName=TestScript.TestCase18.CheckIframeloaded|FullyQualifiedName=TestScript.TestCase19.SearchNewsRoom|FullyQualifiedName=TestScript.TestCase2.SearchResources|FullyQualifiedName=TestScript.TestCase20.SearchChannelPartners|FullyQualifiedName=TestScript.TestCase21.SearchProductTrainingPartners|FullyQualifiedName=TestScript.TestCase22.SearchSoftware|FullyQualifiedName=TestScript.TestCase23.AccessibilityWidgetCheck|FullyQualifiedName=TestScript.TestCase24.AccessibilityWidgetFontSizeCheck|FullyQualifiedName=TestScript.TestCase25.CheckYoutubeVideo|FullyQualifiedName=TestScript.TestCase26.CheckChatonPLAXIS|FullyQualifiedName=TestScript.TestCase27.GenericSearchForTwoWords|FullyQualifiedName=TestScript.TestCase28.SearchForEmptyResults|FullyQualifiedName=TestScript.TestCase29.SearchifSubNavExists_CADSoftware|FullyQualifiedName=TestScript.TestCase3.GenericSearch|FullyQualifiedName=TestScript.TestCase4.VideoCheckAboutUS|FullyQualifiedName=TestScript.TestCase5.VideoCheckSynchro|FullyQualifiedName=TestScript.TestCase6.Pencil_banner|FullyQualifiedName=TestScript.TestCase9.CheckLogoloaded)" --no-build  "--logger:trx;LogFileName=C:\Users\Roopa.Byrichetty\AppData\Local\Temp\.browserstack\results_dotnet\result_0\NUnit-Browserstack.xml" 
+2023-05-01 23:26:46.0788|INFO|browserstack_sdk.Program|
+2023-05-01 23:26:46.0788|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>echo "running bat file" 
+2023-05-01 23:26:46.0788|INFO|browserstack_sdk.Program|"running bat file"
+2023-05-01 23:26:46.0788|INFO|browserstack_sdk.Program|
+2023-05-01 23:26:46.0788|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>cd C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack 
+2023-05-01 23:26:46.0788|INFO|browserstack_sdk.Program|
+2023-05-01 23:26:46.0788|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>dotnet test "C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net6.0\SingleTest.dll" --filter "(FullyQualifiedName=TestScript.TestCase1.HomePageLoad|FullyQualifiedName=TestScript.TestCase10.ScrollToTop|FullyQualifiedName=TestScript.TestCase11.CheckHeaderExists|FullyQualifiedName=TestScript.TestCase12.CheckFooterExists|FullyQualifiedName=TestScript.TestCase13.CheckHeaderNavigationExists|FullyQualifiedName=TestScript.TestCase14.CheckSubHeaderNavigationExists|FullyQualifiedName=TestScript.TestCase15.CheckFooterNavExistence|FullyQualifiedName=TestScript.TestCase16.ProfileSignIn|FullyQualifiedName=TestScript.TestCase17.PageLoadTime|FullyQualifiedName=TestScript.TestCase18.CheckIframeloaded|FullyQualifiedName=TestScript.TestCase19.SearchNewsRoom|FullyQualifiedName=TestScript.TestCase2.SearchResources|FullyQualifiedName=TestScript.TestCase20.SearchChannelPartners|FullyQualifiedName=TestScript.TestCase21.SearchProductTrainingPartners|FullyQualifiedName=TestScript.TestCase22.SearchSoftware|FullyQualifiedName=TestScript.TestCase23.AccessibilityWidgetCheck|FullyQualifiedName=TestScript.TestCase24.AccessibilityWidgetFontSizeCheck|FullyQualifiedName=TestScript.TestCase25.CheckYoutubeVideo|FullyQualifiedName=TestScript.TestCase26.CheckChatonPLAXIS|FullyQualifiedName=TestScript.TestCase27.GenericSearchForTwoWords|FullyQualifiedName=TestScript.TestCase28.SearchForEmptyResults|FullyQualifiedName=TestScript.TestCase29.SearchifSubNavExists_CADSoftware|FullyQualifiedName=TestScript.TestCase3.GenericSearch|FullyQualifiedName=TestScript.TestCase4.VideoCheckAboutUS|FullyQualifiedName=TestScript.TestCase5.VideoCheckSynchro|FullyQualifiedName=TestScript.TestCase6.Pencil_banner|FullyQualifiedName=TestScript.TestCase9.CheckLogoloaded)" --no-build  "--logger:trx;LogFileName=C:\Users\Roopa.Byrichetty\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml" 
+2023-05-01 23:26:46.0788|INFO|browserstack_sdk.Program|
+2023-05-01 23:26:46.0788|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>echo "running bat file" 
+2023-05-01 23:26:46.0788|INFO|browserstack_sdk.Program|"running bat file"
+2023-05-01 23:26:46.0788|INFO|browserstack_sdk.Program|
+2023-05-01 23:26:46.0788|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>cd C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack 
+2023-05-01 23:26:46.0788|INFO|browserstack_sdk.Program|
+2023-05-01 23:26:46.0788|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>dotnet test "C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net6.0\SingleTest.dll" --filter "(FullyQualifiedName=TestScript.TestCase1.HomePageLoad|FullyQualifiedName=TestScript.TestCase10.ScrollToTop|FullyQualifiedName=TestScript.TestCase11.CheckHeaderExists|FullyQualifiedName=TestScript.TestCase12.CheckFooterExists|FullyQualifiedName=TestScript.TestCase13.CheckHeaderNavigationExists|FullyQualifiedName=TestScript.TestCase14.CheckSubHeaderNavigationExists|FullyQualifiedName=TestScript.TestCase15.CheckFooterNavExistence|FullyQualifiedName=TestScript.TestCase16.ProfileSignIn|FullyQualifiedName=TestScript.TestCase17.PageLoadTime|FullyQualifiedName=TestScript.TestCase18.CheckIframeloaded|FullyQualifiedName=TestScript.TestCase19.SearchNewsRoom|FullyQualifiedName=TestScript.TestCase2.SearchResources|FullyQualifiedName=TestScript.TestCase20.SearchChannelPartners|FullyQualifiedName=TestScript.TestCase21.SearchProductTrainingPartners|FullyQualifiedName=TestScript.TestCase22.SearchSoftware|FullyQualifiedName=TestScript.TestCase23.AccessibilityWidgetCheck|FullyQualifiedName=TestScript.TestCase24.AccessibilityWidgetFontSizeCheck|FullyQualifiedName=TestScript.TestCase25.CheckYoutubeVideo|FullyQualifiedName=TestScript.TestCase26.CheckChatonPLAXIS|FullyQualifiedName=TestScript.TestCase27.GenericSearchForTwoWords|FullyQualifiedName=TestScript.TestCase28.SearchForEmptyResults|FullyQualifiedName=TestScript.TestCase29.SearchifSubNavExists_CADSoftware|FullyQualifiedName=TestScript.TestCase3.GenericSearch|FullyQualifiedName=TestScript.TestCase4.VideoCheckAboutUS|FullyQualifiedName=TestScript.TestCase5.VideoCheckSynchro|FullyQualifiedName=TestScript.TestCase6.Pencil_banner|FullyQualifiedName=TestScript.TestCase9.CheckLogoloaded)" --no-build  "--logger:trx;LogFileName=C:\Users\Roopa.Byrichetty\AppData\Local\Temp\.browserstack\results_dotnet\result_2\NUnit-Browserstack.xml" 
+2023-05-01 23:26:46.1003|INFO|browserstack_sdk.Program|
+2023-05-01 23:26:46.1003|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>echo "running bat file" 
+2023-05-01 23:26:46.1003|INFO|browserstack_sdk.Program|"running bat file"
+2023-05-01 23:26:46.1003|INFO|browserstack_sdk.Program|
+2023-05-01 23:26:46.1003|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>cd C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack 
+2023-05-01 23:26:46.1003|INFO|browserstack_sdk.Program|
+2023-05-01 23:26:46.1003|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>dotnet test "C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net6.0\SingleTest.dll" --filter "(FullyQualifiedName=TestScript.TestCase1.HomePageLoad|FullyQualifiedName=TestScript.TestCase10.ScrollToTop|FullyQualifiedName=TestScript.TestCase11.CheckHeaderExists|FullyQualifiedName=TestScript.TestCase12.CheckFooterExists|FullyQualifiedName=TestScript.TestCase13.CheckHeaderNavigationExists|FullyQualifiedName=TestScript.TestCase14.CheckSubHeaderNavigationExists|FullyQualifiedName=TestScript.TestCase15.CheckFooterNavExistence|FullyQualifiedName=TestScript.TestCase16.ProfileSignIn|FullyQualifiedName=TestScript.TestCase17.PageLoadTime|FullyQualifiedName=TestScript.TestCase18.CheckIframeloaded|FullyQualifiedName=TestScript.TestCase19.SearchNewsRoom|FullyQualifiedName=TestScript.TestCase2.SearchResources|FullyQualifiedName=TestScript.TestCase20.SearchChannelPartners|FullyQualifiedName=TestScript.TestCase21.SearchProductTrainingPartners|FullyQualifiedName=TestScript.TestCase22.SearchSoftware|FullyQualifiedName=TestScript.TestCase23.AccessibilityWidgetCheck|FullyQualifiedName=TestScript.TestCase24.AccessibilityWidgetFontSizeCheck|FullyQualifiedName=TestScript.TestCase25.CheckYoutubeVideo|FullyQualifiedName=TestScript.TestCase26.CheckChatonPLAXIS|FullyQualifiedName=TestScript.TestCase27.GenericSearchForTwoWords|FullyQualifiedName=TestScript.TestCase28.SearchForEmptyResults|FullyQualifiedName=TestScript.TestCase29.SearchifSubNavExists_CADSoftware|FullyQualifiedName=TestScript.TestCase3.GenericSearch|FullyQualifiedName=TestScript.TestCase4.VideoCheckAboutUS|FullyQualifiedName=TestScript.TestCase5.VideoCheckSynchro|FullyQualifiedName=TestScript.TestCase6.Pencil_banner|FullyQualifiedName=TestScript.TestCase9.CheckLogoloaded)" --no-build  "--logger:trx;LogFileName=C:\Users\Roopa.Byrichetty\AppData\Local\Temp\.browserstack\results_dotnet\result_3\NUnit-Browserstack.xml" 
+2023-05-01 23:26:46.2881|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+2023-05-01 23:26:46.2953|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+2023-05-01 23:26:46.3210|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+2023-05-01 23:26:46.3295|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+2023-05-01 23:26:46.4468|INFO|browserstack_sdk.Program|Microsoft (R) Test Execution Command Line Tool Version 17.5.0 (x64)
+2023-05-01 23:26:46.4468|INFO|browserstack_sdk.Program|Copyright (c) Microsoft Corporation.  All rights reserved.
+2023-05-01 23:26:46.4468|INFO|browserstack_sdk.Program|Microsoft (R) Test Execution Command Line Tool Version 17.5.0 (x64)
+2023-05-01 23:26:46.4468|INFO|browserstack_sdk.Program|Copyright (c) Microsoft Corporation.  All rights reserved.
+2023-05-01 23:26:46.4468|INFO|browserstack_sdk.Program|
+2023-05-01 23:26:46.4523|INFO|browserstack_sdk.Program|
+2023-05-01 23:26:46.4715|INFO|browserstack_sdk.Program|Microsoft (R) Test Execution Command Line Tool Version 17.5.0 (x64)
+2023-05-01 23:26:46.4715|INFO|browserstack_sdk.Program|Copyright (c) Microsoft Corporation.  All rights reserved.
+2023-05-01 23:26:46.4715|INFO|browserstack_sdk.Program|Microsoft (R) Test Execution Command Line Tool Version 17.5.0 (x64)
+2023-05-01 23:26:46.4715|INFO|browserstack_sdk.Program|Copyright (c) Microsoft Corporation.  All rights reserved.
+2023-05-01 23:26:46.4715|INFO|browserstack_sdk.Program|
+2023-05-01 23:26:46.4715|INFO|browserstack_sdk.Program|
+2023-05-01 23:26:46.5535|INFO|browserstack_sdk.Program|Starting test execution, please wait...
+2023-05-01 23:26:46.5535|INFO|browserstack_sdk.Program|Starting test execution, please wait...
+2023-05-01 23:26:46.5767|INFO|browserstack_sdk.Program|Starting test execution, please wait...
+2023-05-01 23:26:46.5767|INFO|browserstack_sdk.Program|Starting test execution, please wait...
+2023-05-01 23:26:46.5767|INFO|browserstack_sdk.Program|A total of 1 test files matched the specified pattern.
+2023-05-01 23:26:46.5767|INFO|browserstack_sdk.Program|A total of 1 test files matched the specified pattern.
+2023-05-01 23:26:46.6080|INFO|browserstack_sdk.Program|A total of 1 test files matched the specified pattern.
+2023-05-01 23:26:46.6080|INFO|browserstack_sdk.Program|A total of 1 test files matched the specified pattern.
+2023-05-01 23:26:47.0339|INFO|browserstack_sdk.Program|Failed to load extensions from file 'C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net6.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+2023-05-01 23:26:47.0339|INFO|browserstack_sdk.Program|Failed to load extensions from file 'C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net6.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+2023-05-01 23:26:47.0465|INFO|browserstack_sdk.Program|Failed to load extensions from file 'C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net6.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+2023-05-01 23:26:47.0465|INFO|browserstack_sdk.Program|Failed to load extensions from file 'C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net6.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+2023-05-01 23:27:19.0040|INFO|browserstack_sdk.Program|Y offset value 0
+2023-05-01 23:27:19.0040|INFO|browserstack_sdk.Program|
+2023-05-01 23:27:20.6966|INFO|browserstack_sdk.Program|Y offset value 0
+2023-05-01 23:27:20.6966|INFO|browserstack_sdk.Program|
+2023-05-01 23:27:23.1979|INFO|browserstack_sdk.Program|Y offset value 0
+2023-05-01 23:27:23.1979|INFO|browserstack_sdk.Program|
+2023-05-01 23:27:39.6211|INFO|browserstack_sdk.Program|Y offset value 0
+2023-05-01 23:27:39.6211|INFO|browserstack_sdk.Program|
+2023-05-01 23:28:01.2043|INFO|browserstack_sdk.Program|These are the items Digital Twins
+2023-05-01 23:28:01.2043|INFO|browserstack_sdk.Program|
+2023-05-01 23:28:01.2043|INFO|browserstack_sdk.Program|  Failed CheckHeaderNavigationExists [15 s]
+2023-05-01 23:28:01.2043|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-01 23:28:01.2043|INFO|browserstack_sdk.Program|     Expected string length 13 but was 0. Strings differ at index 0.
+2023-05-01 23:28:01.2043|INFO|browserstack_sdk.Program|  Expected: "Digital Twins"
+2023-05-01 23:28:01.2043|INFO|browserstack_sdk.Program|  But was:  <string.Empty>
+2023-05-01 23:28:01.2043|INFO|browserstack_sdk.Program|  -----------^
+2023-05-01 23:28:01.2043|INFO|browserstack_sdk.Program|
+2023-05-01 23:28:01.2043|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-01 23:28:01.2043|INFO|browserstack_sdk.Program|     at TestScript.TestCase13.CheckHeaderNavigationExists_Patch2(TestCase13 this)
+2023-05-01 23:28:01.2043|INFO|browserstack_sdk.Program|
+2023-05-01 23:28:01.2043|INFO|browserstack_sdk.Program|1)    at TestScript.TestCase13.CheckHeaderNavigationExists_Patch2(TestCase13 this)
+2023-05-01 23:28:01.2043|INFO|browserstack_sdk.Program|
+2023-05-01 23:28:01.2043|INFO|browserstack_sdk.Program|
+2023-05-01 23:28:01.2043|INFO|browserstack_sdk.Program|  Standard Output Messages:
+2023-05-01 23:28:01.2043|INFO|browserstack_sdk.Program| These are the items Digital Twins
+2023-05-01 23:28:01.2043|INFO|browserstack_sdk.Program|
+2023-05-01 23:28:01.2043|INFO|browserstack_sdk.Program|
+2023-05-01 23:28:05.3759|INFO|browserstack_sdk.Program|These are the items 
+2023-05-01 23:28:05.3759|INFO|browserstack_sdk.Program|These are the items Digital Twins
+2023-05-01 23:28:05.3759|INFO|browserstack_sdk.Program|
+2023-05-01 23:28:14.9704|INFO|browserstack_sdk.Program|These are the items Industry
+2023-05-01 23:28:14.9704|INFO|browserstack_sdk.Program|
+2023-05-01 23:28:14.9704|INFO|browserstack_sdk.Program|  Failed CheckSubHeaderNavigationExists [13 s]
+2023-05-01 23:28:14.9704|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-01 23:28:14.9704|INFO|browserstack_sdk.Program|     Expected string length 15 but was 0. Strings differ at index 0.
+2023-05-01 23:28:14.9704|INFO|browserstack_sdk.Program|  Expected: "Water Utilities"
+2023-05-01 23:28:14.9704|INFO|browserstack_sdk.Program|  But was:  <string.Empty>
+2023-05-01 23:28:14.9704|INFO|browserstack_sdk.Program|  -----------^
+2023-05-01 23:28:14.9704|INFO|browserstack_sdk.Program|
+2023-05-01 23:28:14.9704|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-01 23:28:14.9704|INFO|browserstack_sdk.Program|     at TestScript.TestCase14.CheckSubHeaderNavigationExists_Patch2(TestCase14 this)
+2023-05-01 23:28:14.9704|INFO|browserstack_sdk.Program|
+2023-05-01 23:28:14.9704|INFO|browserstack_sdk.Program|1)    at TestScript.TestCase14.CheckSubHeaderNavigationExists_Patch2(TestCase14 this)
+2023-05-01 23:28:14.9704|INFO|browserstack_sdk.Program|
+2023-05-01 23:28:14.9704|INFO|browserstack_sdk.Program|
+2023-05-01 23:28:14.9704|INFO|browserstack_sdk.Program|  Standard Output Messages:
+2023-05-01 23:28:14.9704|INFO|browserstack_sdk.Program| These are the items Industry
+2023-05-01 23:28:14.9704|INFO|browserstack_sdk.Program|
+2023-05-01 23:28:14.9704|INFO|browserstack_sdk.Program|
+2023-05-01 23:28:21.2308|INFO|browserstack_sdk.Program|These are the items 
+2023-05-01 23:28:21.2308|INFO|browserstack_sdk.Program|These are the items Digital Twins
+2023-05-01 23:28:21.2308|INFO|browserstack_sdk.Program|
+2023-05-01 23:28:21.2308|INFO|browserstack_sdk.Program|  Failed CheckHeaderNavigationExists [27 s]
+2023-05-01 23:28:21.2308|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-01 23:28:21.2308|INFO|browserstack_sdk.Program|     Expected string length 13 but was 416. Strings differ at index 0.
+2023-05-01 23:28:21.2308|INFO|browserstack_sdk.Program|  Expected: "Digital Twins"
+2023-05-01 23:28:21.2308|INFO|browserstack_sdk.Program|  But was:  "no such element: Unable to locate element: {"method":"css sel..."
+2023-05-01 23:28:21.2308|INFO|browserstack_sdk.Program|  -----------^
+2023-05-01 23:28:21.2308|INFO|browserstack_sdk.Program|
+2023-05-01 23:28:21.2308|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-01 23:28:21.2326|INFO|browserstack_sdk.Program|     at TestScript.TestCase13.CheckHeaderNavigationExists_Patch2(TestCase13 this)
+2023-05-01 23:28:21.2326|INFO|browserstack_sdk.Program|
+2023-05-01 23:28:21.2326|INFO|browserstack_sdk.Program|1)    at TestScript.TestCase13.CheckHeaderNavigationExists_Patch2(TestCase13 this)
+2023-05-01 23:28:21.2326|INFO|browserstack_sdk.Program|
+2023-05-01 23:28:21.2326|INFO|browserstack_sdk.Program|
+2023-05-01 23:28:21.2326|INFO|browserstack_sdk.Program|  Standard Output Messages:
+2023-05-01 23:28:21.2326|INFO|browserstack_sdk.Program| These are the items 
+2023-05-01 23:28:21.2326|INFO|browserstack_sdk.Program| These are the items Digital Twins
+2023-05-01 23:28:21.2326|INFO|browserstack_sdk.Program|
+2023-05-01 23:28:21.2326|INFO|browserstack_sdk.Program|
+2023-05-01 23:28:28.0191|INFO|browserstack_sdk.Program|These are the items 
+2023-05-01 23:28:28.0191|INFO|browserstack_sdk.Program|These are the items Industry
+2023-05-01 23:28:28.0191|INFO|browserstack_sdk.Program|
+2023-05-01 23:28:28.0191|INFO|browserstack_sdk.Program|  Failed CheckSubHeaderNavigationExists [22 s]
+2023-05-01 23:28:28.0191|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-01 23:28:28.0191|INFO|browserstack_sdk.Program|     Expected string length 15 but was 4. Strings differ at index 0.
+2023-05-01 23:28:28.0191|INFO|browserstack_sdk.Program|  Expected: "Water Utilities"
+2023-05-01 23:28:28.0191|INFO|browserstack_sdk.Program|  But was:  "None"
+2023-05-01 23:28:28.0191|INFO|browserstack_sdk.Program|  -----------^
+2023-05-01 23:28:28.0191|INFO|browserstack_sdk.Program|
+2023-05-01 23:28:28.0191|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-01 23:28:28.0191|INFO|browserstack_sdk.Program|     at TestScript.TestCase14.CheckSubHeaderNavigationExists_Patch2(TestCase14 this)
+2023-05-01 23:28:28.0191|INFO|browserstack_sdk.Program|
+2023-05-01 23:28:28.0191|INFO|browserstack_sdk.Program|1)    at TestScript.TestCase14.CheckSubHeaderNavigationExists_Patch2(TestCase14 this)
+2023-05-01 23:28:28.0191|INFO|browserstack_sdk.Program|
+2023-05-01 23:28:28.0191|INFO|browserstack_sdk.Program|
+2023-05-01 23:28:28.0191|INFO|browserstack_sdk.Program|  Standard Output Messages:
+2023-05-01 23:28:28.0191|INFO|browserstack_sdk.Program| These are the items 
+2023-05-01 23:28:28.0191|INFO|browserstack_sdk.Program| These are the items Industry
+2023-05-01 23:28:28.0191|INFO|browserstack_sdk.Program|
+2023-05-01 23:28:28.0191|INFO|browserstack_sdk.Program|
+2023-05-01 23:28:42.4311|INFO|browserstack_sdk.Program|These are the items 
+2023-05-01 23:28:42.4311|INFO|browserstack_sdk.Program|These are the items Industry
+2023-05-01 23:28:42.4311|INFO|browserstack_sdk.Program|
+2023-05-01 23:28:42.4311|INFO|browserstack_sdk.Program|  Failed CheckSubHeaderNavigationExists [21 s]
+2023-05-01 23:28:42.4311|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-01 23:28:42.4311|INFO|browserstack_sdk.Program|     Expected string length 15 but was 4. Strings differ at index 0.
+2023-05-01 23:28:42.4311|INFO|browserstack_sdk.Program|  Expected: "Water Utilities"
+2023-05-01 23:28:42.4311|INFO|browserstack_sdk.Program|  But was:  "None"
+2023-05-01 23:28:42.4311|INFO|browserstack_sdk.Program|  -----------^
+2023-05-01 23:28:42.4311|INFO|browserstack_sdk.Program|
+2023-05-01 23:28:42.4311|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-01 23:28:42.4311|INFO|browserstack_sdk.Program|     at TestScript.TestCase14.CheckSubHeaderNavigationExists_Patch2(TestCase14 this)
+2023-05-01 23:28:42.4311|INFO|browserstack_sdk.Program|
+2023-05-01 23:28:42.4311|INFO|browserstack_sdk.Program|1)    at TestScript.TestCase14.CheckSubHeaderNavigationExists_Patch2(TestCase14 this)
+2023-05-01 23:28:42.4311|INFO|browserstack_sdk.Program|
+2023-05-01 23:28:42.4311|INFO|browserstack_sdk.Program|
+2023-05-01 23:28:42.4311|INFO|browserstack_sdk.Program|  Standard Output Messages:
+2023-05-01 23:28:42.4311|INFO|browserstack_sdk.Program| These are the items 
+2023-05-01 23:28:42.4311|INFO|browserstack_sdk.Program| These are the items Industry
+2023-05-01 23:28:42.4311|INFO|browserstack_sdk.Program|
+2023-05-01 23:28:42.4311|INFO|browserstack_sdk.Program|
+2023-05-01 23:28:45.0422|INFO|browserstack_sdk.Program|These are the items 
+2023-05-01 23:28:45.0422|INFO|browserstack_sdk.Program|These are the items Digital Twins
+2023-05-01 23:28:45.0422|INFO|browserstack_sdk.Program|
+2023-05-01 23:28:49.6955|INFO|browserstack_sdk.Program|  Failed CheckFooterNavExistence [34 s]
+2023-05-01 23:28:49.6955|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-01 23:28:49.6955|INFO|browserstack_sdk.Program|     Expected string length 7 but was 14. Strings differ at index 0.
+2023-05-01 23:28:49.6955|INFO|browserstack_sdk.Program|  Expected: "Support"
+2023-05-01 23:28:49.6955|INFO|browserstack_sdk.Program|  But was:  "\r\n\t Support \r\n"
+2023-05-01 23:28:49.6955|INFO|browserstack_sdk.Program|  -----------^
+2023-05-01 23:28:49.6955|INFO|browserstack_sdk.Program|
+2023-05-01 23:28:49.6955|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-01 23:28:49.6955|INFO|browserstack_sdk.Program|     at TestScript.TestCase15.CheckFooterNavExistence_Patch2(TestCase15 this)
+2023-05-01 23:28:49.6955|INFO|browserstack_sdk.Program|
+2023-05-01 23:28:49.6955|INFO|browserstack_sdk.Program|1)    at TestScript.TestCase15.CheckFooterNavExistence_Patch2(TestCase15 this)
+2023-05-01 23:28:49.6955|INFO|browserstack_sdk.Program|
+2023-05-01 23:28:49.6955|INFO|browserstack_sdk.Program|
+2023-05-01 23:29:07.8988|INFO|browserstack_sdk.Program|  Failed ProfileSignIn [18 s]
+2023-05-01 23:29:07.8988|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-01 23:29:07.8988|INFO|browserstack_sdk.Program|     Expected string length 13 but was 0. Strings differ at index 0.
+2023-05-01 23:29:07.8988|INFO|browserstack_sdk.Program|  Expected: "Therese Stata"
+2023-05-01 23:29:07.8988|INFO|browserstack_sdk.Program|  But was:  <string.Empty>
+2023-05-01 23:29:07.8988|INFO|browserstack_sdk.Program|  -----------^
+2023-05-01 23:29:07.8988|INFO|browserstack_sdk.Program|
+2023-05-01 23:29:07.8988|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-01 23:29:07.8988|INFO|browserstack_sdk.Program|     at TestScript.TestCase16.ProfileSignIn_Patch2(TestCase16 this)
+2023-05-01 23:29:07.8988|INFO|browserstack_sdk.Program|
+2023-05-01 23:29:07.8988|INFO|browserstack_sdk.Program|1)    at TestScript.TestCase16.ProfileSignIn_Patch2(TestCase16 this)
+2023-05-01 23:29:07.8988|INFO|browserstack_sdk.Program|
+2023-05-01 23:29:07.8988|INFO|browserstack_sdk.Program|
+2023-05-01 23:29:14.9301|INFO|browserstack_sdk.Program|These are the items 
+2023-05-01 23:29:14.9301|INFO|browserstack_sdk.Program|These are the items Industry
+2023-05-01 23:29:14.9301|INFO|browserstack_sdk.Program|
+2023-05-01 23:29:14.9301|INFO|browserstack_sdk.Program|  Failed CheckSubHeaderNavigationExists [29 s]
+2023-05-01 23:29:14.9301|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-01 23:29:14.9301|INFO|browserstack_sdk.Program|     Expected string length 15 but was 4. Strings differ at index 0.
+2023-05-01 23:29:14.9301|INFO|browserstack_sdk.Program|  Expected: "Water Utilities"
+2023-05-01 23:29:14.9301|INFO|browserstack_sdk.Program|  But was:  "None"
+2023-05-01 23:29:14.9301|INFO|browserstack_sdk.Program|  -----------^
+2023-05-01 23:29:14.9301|INFO|browserstack_sdk.Program|
+2023-05-01 23:29:14.9301|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-01 23:29:14.9301|INFO|browserstack_sdk.Program|     at TestScript.TestCase14.CheckSubHeaderNavigationExists_Patch2(TestCase14 this)
+2023-05-01 23:29:14.9301|INFO|browserstack_sdk.Program|
+2023-05-01 23:29:14.9301|INFO|browserstack_sdk.Program|1)    at TestScript.TestCase14.CheckSubHeaderNavigationExists_Patch2(TestCase14 this)
+2023-05-01 23:29:14.9301|INFO|browserstack_sdk.Program|
+2023-05-01 23:29:14.9301|INFO|browserstack_sdk.Program|
+2023-05-01 23:29:14.9301|INFO|browserstack_sdk.Program|  Standard Output Messages:
+2023-05-01 23:29:14.9301|INFO|browserstack_sdk.Program| These are the items 
+2023-05-01 23:29:14.9301|INFO|browserstack_sdk.Program| These are the items Industry
+2023-05-01 23:29:14.9301|INFO|browserstack_sdk.Program|
+2023-05-01 23:29:14.9301|INFO|browserstack_sdk.Program|
+2023-05-01 23:29:18.7384|INFO|browserstack_sdk.Program|Page load status = complete
+2023-05-01 23:29:18.7384|INFO|browserstack_sdk.Program|Pageload time = 264
+2023-05-01 23:29:18.7384|INFO|browserstack_sdk.Program|
+2023-05-01 23:29:23.9792|INFO|browserstack_sdk.Program|  Failed ProfileSignIn [18 s]
+2023-05-01 23:29:23.9792|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-01 23:29:23.9792|INFO|browserstack_sdk.Program|     Expected string length 13 but was 0. Strings differ at index 0.
+2023-05-01 23:29:23.9792|INFO|browserstack_sdk.Program|  Expected: "Therese Stata"
+2023-05-01 23:29:23.9792|INFO|browserstack_sdk.Program|  But was:  <string.Empty>
+2023-05-01 23:29:23.9792|INFO|browserstack_sdk.Program|  -----------^
+2023-05-01 23:29:23.9792|INFO|browserstack_sdk.Program|
+2023-05-01 23:29:23.9792|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-01 23:29:23.9792|INFO|browserstack_sdk.Program|     at TestScript.TestCase16.ProfileSignIn_Patch2(TestCase16 this)
+2023-05-01 23:29:23.9792|INFO|browserstack_sdk.Program|
+2023-05-01 23:29:23.9792|INFO|browserstack_sdk.Program|1)    at TestScript.TestCase16.ProfileSignIn_Patch2(TestCase16 this)
+2023-05-01 23:29:23.9792|INFO|browserstack_sdk.Program|
+2023-05-01 23:29:23.9792|INFO|browserstack_sdk.Program|
+2023-05-01 23:29:32.8384|INFO|browserstack_sdk.Program|iframe is displayed
+2023-05-01 23:29:32.8384|INFO|browserstack_sdk.Program|
+2023-05-01 23:29:34.1684|INFO|browserstack_sdk.Program|Page load status = complete
+2023-05-01 23:29:34.1684|INFO|browserstack_sdk.Program|Pageload time = 228
+2023-05-01 23:29:34.1684|INFO|browserstack_sdk.Program|
+2023-05-01 23:29:42.9044|INFO|browserstack_sdk.Program|  Failed ProfileSignIn [20 s]
+2023-05-01 23:29:42.9047|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-01 23:29:42.9047|INFO|browserstack_sdk.Program|     Expected string length 13 but was 0. Strings differ at index 0.
+2023-05-01 23:29:42.9047|INFO|browserstack_sdk.Program|  Expected: "Therese Stata"
+2023-05-01 23:29:42.9047|INFO|browserstack_sdk.Program|  But was:  <string.Empty>
+2023-05-01 23:29:42.9047|INFO|browserstack_sdk.Program|  -----------^
+2023-05-01 23:29:42.9047|INFO|browserstack_sdk.Program|
+2023-05-01 23:29:42.9047|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-01 23:29:42.9047|INFO|browserstack_sdk.Program|     at TestScript.TestCase16.ProfileSignIn_Patch2(TestCase16 this)
+2023-05-01 23:29:42.9047|INFO|browserstack_sdk.Program|
+2023-05-01 23:29:42.9047|INFO|browserstack_sdk.Program|1)    at TestScript.TestCase16.ProfileSignIn_Patch2(TestCase16 this)
+2023-05-01 23:29:42.9047|INFO|browserstack_sdk.Program|
+2023-05-01 23:29:42.9047|INFO|browserstack_sdk.Program|
+2023-05-01 23:29:49.2206|INFO|browserstack_sdk.Program|iframe is displayed
+2023-05-01 23:29:49.2206|INFO|browserstack_sdk.Program|
+2023-05-01 23:29:58.6086|INFO|browserstack_sdk.Program|Page load status = complete
+2023-05-01 23:29:58.6086|INFO|browserstack_sdk.Program|Pageload time = 462
+2023-05-01 23:29:58.6086|INFO|browserstack_sdk.Program|
+2023-05-01 23:30:14.8641|INFO|browserstack_sdk.Program|iframe is displayed
+2023-05-01 23:30:14.8641|INFO|browserstack_sdk.Program|
+2023-05-01 23:30:31.0771|INFO|browserstack_sdk.Program|  Failed ProfileSignIn [32 s]
+2023-05-01 23:30:31.0771|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-01 23:30:31.0771|INFO|browserstack_sdk.Program|     Expected string length 13 but was 0. Strings differ at index 0.
+2023-05-01 23:30:31.0771|INFO|browserstack_sdk.Program|  Expected: "Therese Stata"
+2023-05-01 23:30:31.0771|INFO|browserstack_sdk.Program|  But was:  <string.Empty>
+2023-05-01 23:30:31.0771|INFO|browserstack_sdk.Program|  -----------^
+2023-05-01 23:30:31.0771|INFO|browserstack_sdk.Program|
+2023-05-01 23:30:31.0771|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-01 23:30:31.0771|INFO|browserstack_sdk.Program|     at TestScript.TestCase16.ProfileSignIn_Patch2(TestCase16 this)
+2023-05-01 23:30:31.0771|INFO|browserstack_sdk.Program|
+2023-05-01 23:30:31.0771|INFO|browserstack_sdk.Program|1)    at TestScript.TestCase16.ProfileSignIn_Patch2(TestCase16 this)
+2023-05-01 23:30:31.0771|INFO|browserstack_sdk.Program|
+2023-05-01 23:30:31.0771|INFO|browserstack_sdk.Program|
+2023-05-01 23:30:44.5451|INFO|browserstack_sdk.Program|Page load status = complete
+2023-05-01 23:30:44.5451|INFO|browserstack_sdk.Program|Pageload time = 146
+2023-05-01 23:30:44.5451|INFO|browserstack_sdk.Program|
+2023-05-01 23:30:57.0412|INFO|browserstack_sdk.Program|  Failed SearchProductTrainingPartners [18 s]
+2023-05-01 23:30:57.0412|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-01 23:30:57.0412|INFO|browserstack_sdk.Program|   OpenQA.Selenium.ElementNotInteractableException : No message provided
+2023-05-01 23:30:57.0412|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-01 23:30:57.0412|INFO|browserstack_sdk.Program|     at TestScript.TestCase21.SearchProductTrainingPartners_Patch2(TestCase21 this)
+2023-05-01 23:30:57.0412|INFO|browserstack_sdk.Program|
+2023-05-01 23:31:11.0839|INFO|browserstack_sdk.Program|iframe is displayed
+2023-05-01 23:31:11.0839|INFO|browserstack_sdk.Program|
+2023-05-01 23:31:56.7653|INFO|browserstack_sdk.Program|0px2.880000114440918px
+2023-05-01 23:32:35.8819|INFO|browserstack_sdk.Program|0px2.88px
+2023-05-01 23:32:53.5798|INFO|browserstack_sdk.Program|0px2.88px
+2023-05-01 23:33:00.6265|INFO|browserstack_sdk.Program|Zoom set to before1
+2023-05-01 23:33:00.6265|INFO|browserstack_sdk.Program|Zoom set to after1.2000000476837158
+2023-05-01 23:33:00.6265|INFO|browserstack_sdk.Program|
+2023-05-01 23:33:14.6802|INFO|browserstack_sdk.Program|Zoom set to before1
+2023-05-01 23:33:14.6802|INFO|browserstack_sdk.Program|Zoom set to after1.2
+2023-05-01 23:33:14.6802|INFO|browserstack_sdk.Program|
+2023-05-01 23:33:17.0167|INFO|browserstack_sdk.Program|  Failed CheckYoutubeVideo [16 s]
+2023-05-01 23:33:17.0167|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-01 23:33:17.0167|INFO|browserstack_sdk.Program|     Expected: True
+2023-05-01 23:33:17.0167|INFO|browserstack_sdk.Program|  But was:  False
+2023-05-01 23:33:17.0167|INFO|browserstack_sdk.Program|
+2023-05-01 23:33:17.0167|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-01 23:33:17.0167|INFO|browserstack_sdk.Program|     at TestScript.TestCase25.CheckYoutubeVideo_Patch2(TestCase25 this)
+2023-05-01 23:33:17.0167|INFO|browserstack_sdk.Program|
+2023-05-01 23:33:17.0167|INFO|browserstack_sdk.Program|1)    at TestScript.TestCase25.CheckYoutubeVideo_Patch2(TestCase25 this)
+2023-05-01 23:33:17.0167|INFO|browserstack_sdk.Program|
+2023-05-01 23:33:17.0167|INFO|browserstack_sdk.Program|
+2023-05-01 23:33:32.8583|INFO|browserstack_sdk.Program|  Failed CheckChatonPLAXIS [15 s]
+2023-05-01 23:33:32.8583|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-01 23:33:32.8583|INFO|browserstack_sdk.Program|     Expected: True
+2023-05-01 23:33:32.8583|INFO|browserstack_sdk.Program|  But was:  False
+2023-05-01 23:33:32.8583|INFO|browserstack_sdk.Program|
+2023-05-01 23:33:32.8583|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-01 23:33:32.8583|INFO|browserstack_sdk.Program|     at TestScript.TestCase26.CheckChatonPLAXIS_Patch2(TestCase26 this)
+2023-05-01 23:33:32.8583|INFO|browserstack_sdk.Program|
+2023-05-01 23:33:32.8583|INFO|browserstack_sdk.Program|1)    at TestScript.TestCase26.CheckChatonPLAXIS_Patch2(TestCase26 this)
+2023-05-01 23:33:32.8583|INFO|browserstack_sdk.Program|
+2023-05-01 23:33:32.8583|INFO|browserstack_sdk.Program|
+2023-05-01 23:33:33.6914|INFO|browserstack_sdk.Program|Zoom set to before1
+2023-05-01 23:33:33.6914|INFO|browserstack_sdk.Program|Zoom set to after1.2
+2023-05-01 23:33:33.6914|INFO|browserstack_sdk.Program|
+2023-05-01 23:33:55.6306|INFO|browserstack_sdk.Program|Number of articles 16
+2023-05-01 23:33:55.6306|INFO|browserstack_sdk.Program|
+2023-05-01 23:33:57.9896|INFO|browserstack_sdk.Program|  Failed CheckChatonPLAXIS [16 s]
+2023-05-01 23:33:57.9896|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-01 23:33:57.9896|INFO|browserstack_sdk.Program|     Expected: True
+2023-05-01 23:33:57.9896|INFO|browserstack_sdk.Program|  But was:  False
+2023-05-01 23:33:57.9896|INFO|browserstack_sdk.Program|
+2023-05-01 23:33:57.9896|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-01 23:33:57.9896|INFO|browserstack_sdk.Program|     at TestScript.TestCase26.CheckChatonPLAXIS_Patch2(TestCase26 this)
+2023-05-01 23:33:57.9896|INFO|browserstack_sdk.Program|
+2023-05-01 23:33:57.9896|INFO|browserstack_sdk.Program|1)    at TestScript.TestCase26.CheckChatonPLAXIS_Patch2(TestCase26 this)
+2023-05-01 23:33:57.9896|INFO|browserstack_sdk.Program|
+2023-05-01 23:33:57.9896|INFO|browserstack_sdk.Program|
+2023-05-01 23:34:16.9765|INFO|browserstack_sdk.Program|Search result text 
+2023-05-01 23:34:16.9765|INFO|browserstack_sdk.Program|					Keep calm and try something else. Check your spelling, search for a different term, or take a look at some of our featured software options below.				
+2023-05-01 23:34:16.9765|INFO|browserstack_sdk.Program|
+2023-05-01 23:34:18.7928|INFO|browserstack_sdk.Program|  Failed CheckChatonPLAXIS [23 s]
+2023-05-01 23:34:18.7928|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-01 23:34:18.7928|INFO|browserstack_sdk.Program|     Expected: True
+2023-05-01 23:34:18.7928|INFO|browserstack_sdk.Program|  But was:  False
+2023-05-01 23:34:18.7928|INFO|browserstack_sdk.Program|
+2023-05-01 23:34:18.7928|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-01 23:34:18.7928|INFO|browserstack_sdk.Program|     at TestScript.TestCase26.CheckChatonPLAXIS_Patch2(TestCase26 this)
+2023-05-01 23:34:18.7928|INFO|browserstack_sdk.Program|
+2023-05-01 23:34:18.7928|INFO|browserstack_sdk.Program|1)    at TestScript.TestCase26.CheckChatonPLAXIS_Patch2(TestCase26 this)
+2023-05-01 23:34:18.7928|INFO|browserstack_sdk.Program|
+2023-05-01 23:34:18.7928|INFO|browserstack_sdk.Program|
+2023-05-01 23:34:24.8278|INFO|browserstack_sdk.Program|Number of articles 16
+2023-05-01 23:34:24.8278|INFO|browserstack_sdk.Program|
+2023-05-01 23:34:33.1620|INFO|browserstack_sdk.Program|  Failed SearchifSubNavExists_CADSoftware [16 s]
+2023-05-01 23:34:33.1620|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-01 23:34:33.1620|INFO|browserstack_sdk.Program|     Expected: True
+2023-05-01 23:34:33.1620|INFO|browserstack_sdk.Program|  But was:  False
+2023-05-01 23:34:33.1620|INFO|browserstack_sdk.Program|
+2023-05-01 23:34:33.1620|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-01 23:34:33.1620|INFO|browserstack_sdk.Program|     at TestScript.TestCase29.SearchifSubNavExists_CADSoftware_Patch2(TestCase29 this)
+2023-05-01 23:34:33.1620|INFO|browserstack_sdk.Program|
+2023-05-01 23:34:33.1620|INFO|browserstack_sdk.Program|1)    at TestScript.TestCase29.SearchifSubNavExists_CADSoftware_Patch2(TestCase29 this)
+2023-05-01 23:34:33.1620|INFO|browserstack_sdk.Program|
+2023-05-01 23:34:33.1620|INFO|browserstack_sdk.Program|
+2023-05-01 23:34:45.1090|INFO|browserstack_sdk.Program|Number of articles 16
+2023-05-01 23:34:45.1090|INFO|browserstack_sdk.Program|
+2023-05-01 23:34:54.0033|INFO|browserstack_sdk.Program|0px2.88px
+2023-05-01 23:34:56.8496|INFO|browserstack_sdk.Program|  Failed GenericSearch [23 s]
+2023-05-01 23:34:56.8496|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-01 23:34:56.8496|INFO|browserstack_sdk.Program|     String lengths are both 5. Strings differ at index 0.
+2023-05-01 23:34:56.8496|INFO|browserstack_sdk.Program|  Expected: "ITwin"
+2023-05-01 23:34:56.8496|INFO|browserstack_sdk.Program|  But was:  "iTwin"
+2023-05-01 23:34:56.8496|INFO|browserstack_sdk.Program|  -----------^
+2023-05-01 23:34:56.8496|INFO|browserstack_sdk.Program|
+2023-05-01 23:34:56.8496|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-01 23:34:56.8496|INFO|browserstack_sdk.Program|     at TestScript.TestCase3.GenericSearch_Patch2(TestCase3 this)
+2023-05-01 23:34:56.8496|INFO|browserstack_sdk.Program|
+2023-05-01 23:34:56.8496|INFO|browserstack_sdk.Program|1)    at TestScript.TestCase3.GenericSearch_Patch2(TestCase3 this)
+2023-05-01 23:34:56.8496|INFO|browserstack_sdk.Program|
+2023-05-01 23:34:56.8496|INFO|browserstack_sdk.Program|
+2023-05-01 23:34:57.7620|INFO|browserstack_sdk.Program|Search result text Keep calm and try something else. Check your spelling, search for a different term, or take a look at some of our featured software options below.
+2023-05-01 23:34:57.7620|INFO|browserstack_sdk.Program|
+2023-05-01 23:35:12.0299|INFO|browserstack_sdk.Program|  Failed SearchifSubNavExists_CADSoftware [14 s]
+2023-05-01 23:35:12.0299|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-01 23:35:12.0299|INFO|browserstack_sdk.Program|     Expected: True
+2023-05-01 23:35:12.0299|INFO|browserstack_sdk.Program|  But was:  False
+2023-05-01 23:35:12.0299|INFO|browserstack_sdk.Program|
+2023-05-01 23:35:12.0299|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-01 23:35:12.0299|INFO|browserstack_sdk.Program|     at TestScript.TestCase29.SearchifSubNavExists_CADSoftware_Patch2(TestCase29 this)
+2023-05-01 23:35:12.0299|INFO|browserstack_sdk.Program|
+2023-05-01 23:35:12.0299|INFO|browserstack_sdk.Program|1)    at TestScript.TestCase29.SearchifSubNavExists_CADSoftware_Patch2(TestCase29 this)
+2023-05-01 23:35:12.0299|INFO|browserstack_sdk.Program|
+2023-05-01 23:35:12.0299|INFO|browserstack_sdk.Program|
+2023-05-01 23:35:20.7883|INFO|browserstack_sdk.Program|Search result text Keep calm and try something else. Check your spelling, search for a different term, or take a look at some of our featured software options below.
+2023-05-01 23:35:20.7883|INFO|browserstack_sdk.Program|
+2023-05-01 23:35:23.1151|INFO|browserstack_sdk.Program|  Failed AccessibilityWidgetFontSizeCheck [29 s]
+2023-05-01 23:35:23.1151|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-01 23:35:23.1151|INFO|browserstack_sdk.Program|   OpenQA.Selenium.NoSuchElementException : Unable to locate element: body > div.uw-sl
+2023-05-01 23:35:23.1151|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-01 23:35:23.1151|INFO|browserstack_sdk.Program|     at TestScript.TestCase24.AccessibilityWidgetFontSizeCheck_Patch2(TestCase24 this)
+2023-05-01 23:35:23.1151|INFO|browserstack_sdk.Program|
+2023-05-01 23:35:31.8843|INFO|browserstack_sdk.Program|  Failed SearchifSubNavExists_CADSoftware [11 s]
+2023-05-01 23:35:31.8843|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-01 23:35:31.8843|INFO|browserstack_sdk.Program|     Expected: True
+2023-05-01 23:35:31.8843|INFO|browserstack_sdk.Program|  But was:  False
+2023-05-01 23:35:31.8843|INFO|browserstack_sdk.Program|
+2023-05-01 23:35:31.8843|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-01 23:35:31.8843|INFO|browserstack_sdk.Program|     at TestScript.TestCase29.SearchifSubNavExists_CADSoftware_Patch2(TestCase29 this)
+2023-05-01 23:35:31.8843|INFO|browserstack_sdk.Program|
+2023-05-01 23:35:31.8843|INFO|browserstack_sdk.Program|1)    at TestScript.TestCase29.SearchifSubNavExists_CADSoftware_Patch2(TestCase29 this)
+2023-05-01 23:35:31.8843|INFO|browserstack_sdk.Program|
+2023-05-01 23:35:31.8843|INFO|browserstack_sdk.Program|
+2023-05-01 23:36:12.5662|INFO|browserstack_sdk.Program|  Failed CheckChatonPLAXIS [25 s]
+2023-05-01 23:36:12.5662|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-01 23:36:12.5662|INFO|browserstack_sdk.Program|     Expected: True
+2023-05-01 23:36:12.5662|INFO|browserstack_sdk.Program|  But was:  False
+2023-05-01 23:36:12.5662|INFO|browserstack_sdk.Program|
+2023-05-01 23:36:12.5662|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-01 23:36:12.5662|INFO|browserstack_sdk.Program|     at TestScript.TestCase26.CheckChatonPLAXIS_Patch2(TestCase26 this)
+2023-05-01 23:36:12.5662|INFO|browserstack_sdk.Program|
+2023-05-01 23:36:12.5662|INFO|browserstack_sdk.Program|1)    at TestScript.TestCase26.CheckChatonPLAXIS_Patch2(TestCase26 this)
+2023-05-01 23:36:12.5662|INFO|browserstack_sdk.Program|
+2023-05-01 23:36:12.5662|INFO|browserstack_sdk.Program|
+2023-05-01 23:36:30.9036|INFO|browserstack_sdk.Program|Logo is displayed
+2023-05-01 23:36:30.9036|INFO|browserstack_sdk.Program|
+2023-05-01 23:36:30.9802|INFO|browserstack_sdk.Program|Results File: C:\Users\Roopa.Byrichetty\AppData\Local\Temp\.browserstack\results_dotnet\result_2\NUnit-Browserstack.xml
+2023-05-01 23:36:30.9802|INFO|browserstack_sdk.Program|
+2023-05-01 23:36:30.9840|INFO|browserstack_sdk.Program|Failed!  - Failed:     9, Passed:    18, Skipped:     0, Total:    27, Duration: 9 m 43 s - SingleTest.dll (net6.0)
+2023-05-01 23:36:31.0247|INFO|browserstack_sdk.Program|
+2023-05-01 23:36:31.0247|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>echo "completed bat file" 
+2023-05-01 23:36:31.0247|INFO|browserstack_sdk.Program|"completed bat file"
+2023-05-01 23:36:35.9079|INFO|browserstack_sdk.Program|Number of articles 16
+2023-05-01 23:36:35.9079|INFO|browserstack_sdk.Program|
+2023-05-01 23:37:03.6571|INFO|browserstack_sdk.Program|Search result text Keep calm and try something else. Check your spelling, search for a different term, or take a look at some of our featured software options below.
+2023-05-01 23:37:03.6571|INFO|browserstack_sdk.Program|
+2023-05-01 23:37:26.3055|INFO|browserstack_sdk.Program|  Failed SearchifSubNavExists_CADSoftware [22 s]
+2023-05-01 23:37:26.3055|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-01 23:37:26.3055|INFO|browserstack_sdk.Program|     Expected: True
+2023-05-01 23:37:26.3055|INFO|browserstack_sdk.Program|  But was:  False
+2023-05-01 23:37:26.3055|INFO|browserstack_sdk.Program|
+2023-05-01 23:37:26.3055|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-01 23:37:26.3055|INFO|browserstack_sdk.Program|     at TestScript.TestCase29.SearchifSubNavExists_CADSoftware_Patch2(TestCase29 this)
+2023-05-01 23:37:26.3055|INFO|browserstack_sdk.Program|
+2023-05-01 23:37:26.3055|INFO|browserstack_sdk.Program|1)    at TestScript.TestCase29.SearchifSubNavExists_CADSoftware_Patch2(TestCase29 this)
+2023-05-01 23:37:26.3055|INFO|browserstack_sdk.Program|
+2023-05-01 23:37:26.3055|INFO|browserstack_sdk.Program|
+2023-05-01 23:37:39.5986|INFO|browserstack_sdk.Program|Logo is displayed
+2023-05-01 23:37:39.5986|INFO|browserstack_sdk.Program|
+2023-05-01 23:37:39.6746|INFO|browserstack_sdk.Program|Results File: C:\Users\Roopa.Byrichetty\AppData\Local\Temp\.browserstack\results_dotnet\result_0\NUnit-Browserstack.xml
+2023-05-01 23:37:39.6746|INFO|browserstack_sdk.Program|
+2023-05-01 23:37:39.6746|INFO|browserstack_sdk.Program|Failed!  - Failed:     5, Passed:    22, Skipped:     0, Total:    27, Duration: 10 m 51 s - SingleTest.dll (net6.0)
+2023-05-01 23:37:39.7099|INFO|browserstack_sdk.Program|
+2023-05-01 23:37:39.7099|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>echo "completed bat file" 
+2023-05-01 23:37:39.7099|INFO|browserstack_sdk.Program|"completed bat file"
+2023-05-01 23:37:52.7007|INFO|browserstack_sdk.Program|Logo is displayed
+2023-05-01 23:37:52.7007|INFO|browserstack_sdk.Program|
+2023-05-01 23:37:52.7684|INFO|browserstack_sdk.Program|Results File: C:\Users\Roopa.Byrichetty\AppData\Local\Temp\.browserstack\results_dotnet\result_3\NUnit-Browserstack.xml
+2023-05-01 23:37:52.7684|INFO|browserstack_sdk.Program|
+2023-05-01 23:37:52.7684|INFO|browserstack_sdk.Program|Failed!  - Failed:     4, Passed:    23, Skipped:     0, Total:    27, Duration: 11 m 4 s - SingleTest.dll (net6.0)
+2023-05-01 23:37:52.8058|INFO|browserstack_sdk.Program|
+2023-05-01 23:37:52.8058|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>echo "completed bat file" 
+2023-05-01 23:37:52.8058|INFO|browserstack_sdk.Program|"completed bat file"
+2023-05-01 23:40:18.3912|INFO|browserstack_sdk.Program|Logo is displayed
+2023-05-01 23:40:18.3912|INFO|browserstack_sdk.Program|
+2023-05-01 23:40:18.4643|INFO|browserstack_sdk.Program|Results File: C:\Users\Roopa.Byrichetty\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+2023-05-01 23:40:18.4643|INFO|browserstack_sdk.Program|
+2023-05-01 23:40:18.4691|INFO|browserstack_sdk.Program|Failed!  - Failed:     5, Passed:    22, Skipped:     0, Total:    27, Duration: 13 m 30 s - SingleTest.dll (net6.0)
+2023-05-01 23:40:18.4955|INFO|browserstack_sdk.Program|
+2023-05-01 23:40:18.4955|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\Downloads\nunit-browserstack-sdk-new1\nunit-browserstack-sdk\NUnit-BrowserStack>echo "completed bat file" 
+2023-05-01 23:40:18.4955|INFO|browserstack_sdk.Program|"completed bat file"
+2023-05-01 23:40:18.4991|INFO|browserstack_sdk.Program|Stopping local
+2023-05-01 23:40:21.0938|INFO|browserstack_sdk.utils|View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/2eab9b8783c5a0606270d5e10085ec2315f65d45
+
+
+2023-05-01 23:40:21.1688|INFO|A.b|Cleaning up adapter
+2023-05-01 23:40:21.1722|INFO|A.b|Getting results from: C:\Users\Roopa.Byrichetty\AppData\Local\Temp\.browserstack
+2023-05-02 07:17:16.3222|INFO|A.b|Setting up adapter
+2023-05-02 07:17:16.3338|INFO|BStack.VisualStudio.TestAdapter.BStackTestExecutor|NUnit test stated from test explorer
+2023-05-02 07:17:16.3338|INFO|A.b|Invoking browserstack-sdk with args: --skip-build-browserstack "C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_STAGE_Bentley.com\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net6.0\SingleTest.dll" --filter ""(FullyQualifiedName=TestScript.TestCase1.HomePageLoad|FullyQualifiedName=TestScript.TestCase10.ScrollToTop|FullyQualifiedName=TestScript.TestCase11.CheckHeaderExists|FullyQualifiedName=TestScript.TestCase12.CheckFooterExists|FullyQualifiedName=TestScript.TestCase13.CheckHeaderNavigationExists|FullyQualifiedName=TestScript.TestCase14.CheckSubHeaderNavigationExists|FullyQualifiedName=TestScript.TestCase15.CheckFooterNavExistence|FullyQualifiedName=TestScript.TestCase16.ProfileSignIn|FullyQualifiedName=TestScript.TestCase17.PageLoadTime|FullyQualifiedName=TestScript.TestCase18.CheckIframeloaded|FullyQualifiedName=TestScript.TestCase19.SearchNewsRoom|FullyQualifiedName=TestScript.TestCase2.SearchResources|FullyQualifiedName=TestScript.TestCase20.SearchChannelPartners|FullyQualifiedName=TestScript.TestCase21.SearchProductTrainingPartners|FullyQualifiedName=TestScript.TestCase22.SearchSoftware|FullyQualifiedName=TestScript.TestCase23.AccessibilityWidgetCheck|FullyQualifiedName=TestScript.TestCase24.AccessibilityWidgetFontSizeCheck|FullyQualifiedName=TestScript.TestCase25.CheckYoutubeVideo|FullyQualifiedName=TestScript.TestCase26.CheckChatonPLAXIS|FullyQualifiedName=TestScript.TestCase27.GenericSearchForTwoWords|FullyQualifiedName=TestScript.TestCase28.SearchForEmptyResults|FullyQualifiedName=TestScript.TestCase29.SearchifSubNavExists_CADSoftware|FullyQualifiedName=TestScript.TestCase3.GenericSearch|FullyQualifiedName=TestScript.TestCase4.VideoCheckAboutUS|FullyQualifiedName=TestScript.TestCase5.VideoCheckSynchro|FullyQualifiedName=TestScript.TestCase6.Pencil_banner|FullyQualifiedName=TestScript.TestCase9.CheckLogoloaded)""
+2023-05-02 07:34:56.0421|INFO|A.b|Exec: dotnet browserstack-sdk --skip-build-browserstack "C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_STAGE_Bentley.com\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net6.0\SingleTest.dll" --filter ""(FullyQualifiedName=TestScript.TestCase1.HomePageLoad|FullyQualifiedName=TestScript.TestCase10.ScrollToTop|FullyQualifiedName=TestScript.TestCase11.CheckHeaderExists|FullyQualifiedName=TestScript.TestCase12.CheckFooterExists|FullyQualifiedName=TestScript.TestCase13.CheckHeaderNavigationExists|FullyQualifiedName=TestScript.TestCase14.CheckSubHeaderNavigationExists|FullyQualifiedName=TestScript.TestCase15.CheckFooterNavExistence|FullyQualifiedName=TestScript.TestCase16.ProfileSignIn|FullyQualifiedName=TestScript.TestCase17.PageLoadTime|FullyQualifiedName=TestScript.TestCase18.CheckIframeloaded|FullyQualifiedName=TestScript.TestCase19.SearchNewsRoom|FullyQualifiedName=TestScript.TestCase2.SearchResources|FullyQualifiedName=TestScript.TestCase20.SearchChannelPartners|FullyQualifiedName=TestScript.TestCase21.SearchProductTrainingPartners|FullyQualifiedName=TestScript.TestCase22.SearchSoftware|FullyQualifiedName=TestScript.TestCase23.AccessibilityWidgetCheck|FullyQualifiedName=TestScript.TestCase24.AccessibilityWidgetFontSizeCheck|FullyQualifiedName=TestScript.TestCase25.CheckYoutubeVideo|FullyQualifiedName=TestScript.TestCase26.CheckChatonPLAXIS|FullyQualifiedName=TestScript.TestCase27.GenericSearchForTwoWords|FullyQualifiedName=TestScript.TestCase28.SearchForEmptyResults|FullyQualifiedName=TestScript.TestCase29.SearchifSubNavExists_CADSoftware|FullyQualifiedName=TestScript.TestCase3.GenericSearch|FullyQualifiedName=TestScript.TestCase4.VideoCheckAboutUS|FullyQualifiedName=TestScript.TestCase5.VideoCheckSynchro|FullyQualifiedName=TestScript.TestCase6.Pencil_banner|FullyQualifiedName=TestScript.TestCase9.CheckLogoloaded)""
+2023-05-02 07:34:56.0421|INFO|A.b|0 : 
+2023-05-02 07:17:18.5309|INFO|browserstack_sdk.Program|Detected Selenium version 4.7.0
+2023-05-02 07:17:18.7274|INFO|browserstack_sdk.Program|Detected dotnet version 7.0.203
+2023-05-02 07:17:19.4629|INFO|browserstack_sdk.Program|Starting local
+2023-05-02 07:17:24.5205|INFO|browserstack_sdk.Program|Local started
+2023-05-02 07:17:24.6273|INFO|browserstack_sdk.Program|
+2023-05-02 07:17:24.6273|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_STAGE_Bentley.com\nunit-browserstack-sdk\NUnit-BrowserStack>echo "running bat file" 
+2023-05-02 07:17:24.6273|INFO|browserstack_sdk.Program|"running bat file"
+2023-05-02 07:17:24.6273|INFO|browserstack_sdk.Program|
+2023-05-02 07:17:24.6273|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_STAGE_Bentley.com\nunit-browserstack-sdk\NUnit-BrowserStack>cd C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_STAGE_Bentley.com\nunit-browserstack-sdk\NUnit-BrowserStack 
+2023-05-02 07:17:24.6273|INFO|browserstack_sdk.Program|
+2023-05-02 07:17:24.6273|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_STAGE_Bentley.com\nunit-browserstack-sdk\NUnit-BrowserStack>dotnet test "C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_STAGE_Bentley.com\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net6.0\SingleTest.dll" --filter "(FullyQualifiedName=TestScript.TestCase1.HomePageLoad|FullyQualifiedName=TestScript.TestCase10.ScrollToTop|FullyQualifiedName=TestScript.TestCase11.CheckHeaderExists|FullyQualifiedName=TestScript.TestCase12.CheckFooterExists|FullyQualifiedName=TestScript.TestCase13.CheckHeaderNavigationExists|FullyQualifiedName=TestScript.TestCase14.CheckSubHeaderNavigationExists|FullyQualifiedName=TestScript.TestCase15.CheckFooterNavExistence|FullyQualifiedName=TestScript.TestCase16.ProfileSignIn|FullyQualifiedName=TestScript.TestCase17.PageLoadTime|FullyQualifiedName=TestScript.TestCase18.CheckIframeloaded|FullyQualifiedName=TestScript.TestCase19.SearchNewsRoom|FullyQualifiedName=TestScript.TestCase2.SearchResources|FullyQualifiedName=TestScript.TestCase20.SearchChannelPartners|FullyQualifiedName=TestScript.TestCase21.SearchProductTrainingPartners|FullyQualifiedName=TestScript.TestCase22.SearchSoftware|FullyQualifiedName=TestScript.TestCase23.AccessibilityWidgetCheck|FullyQualifiedName=TestScript.TestCase24.AccessibilityWidgetFontSizeCheck|FullyQualifiedName=TestScript.TestCase25.CheckYoutubeVideo|FullyQualifiedName=TestScript.TestCase26.CheckChatonPLAXIS|FullyQualifiedName=TestScript.TestCase27.GenericSearchForTwoWords|FullyQualifiedName=TestScript.TestCase28.SearchForEmptyResults|FullyQualifiedName=TestScript.TestCase29.SearchifSubNavExists_CADSoftware|FullyQualifiedName=TestScript.TestCase3.GenericSearch|FullyQualifiedName=TestScript.TestCase4.VideoCheckAboutUS|FullyQualifiedName=TestScript.TestCase5.VideoCheckSynchro|FullyQualifiedName=TestScript.TestCase6.Pencil_banner|FullyQualifiedName=TestScript.TestCase9.CheckLogoloaded)" --no-build  "--logger:trx;LogFileName=C:\Users\Roopa.Byrichetty\AppData\Local\Temp\.browserstack\results_dotnet\result_0\NUnit-Browserstack.xml" 
+2023-05-02 07:17:24.6273|INFO|browserstack_sdk.Program|
+2023-05-02 07:17:24.6273|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_STAGE_Bentley.com\nunit-browserstack-sdk\NUnit-BrowserStack>echo "running bat file" 
+2023-05-02 07:17:24.6273|INFO|browserstack_sdk.Program|"running bat file"
+2023-05-02 07:17:24.6273|INFO|browserstack_sdk.Program|
+2023-05-02 07:17:24.6273|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_STAGE_Bentley.com\nunit-browserstack-sdk\NUnit-BrowserStack>cd C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_STAGE_Bentley.com\nunit-browserstack-sdk\NUnit-BrowserStack 
+2023-05-02 07:17:24.6273|INFO|browserstack_sdk.Program|
+2023-05-02 07:17:24.6273|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_STAGE_Bentley.com\nunit-browserstack-sdk\NUnit-BrowserStack>dotnet test "C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_STAGE_Bentley.com\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net6.0\SingleTest.dll" --filter "(FullyQualifiedName=TestScript.TestCase1.HomePageLoad|FullyQualifiedName=TestScript.TestCase10.ScrollToTop|FullyQualifiedName=TestScript.TestCase11.CheckHeaderExists|FullyQualifiedName=TestScript.TestCase12.CheckFooterExists|FullyQualifiedName=TestScript.TestCase13.CheckHeaderNavigationExists|FullyQualifiedName=TestScript.TestCase14.CheckSubHeaderNavigationExists|FullyQualifiedName=TestScript.TestCase15.CheckFooterNavExistence|FullyQualifiedName=TestScript.TestCase16.ProfileSignIn|FullyQualifiedName=TestScript.TestCase17.PageLoadTime|FullyQualifiedName=TestScript.TestCase18.CheckIframeloaded|FullyQualifiedName=TestScript.TestCase19.SearchNewsRoom|FullyQualifiedName=TestScript.TestCase2.SearchResources|FullyQualifiedName=TestScript.TestCase20.SearchChannelPartners|FullyQualifiedName=TestScript.TestCase21.SearchProductTrainingPartners|FullyQualifiedName=TestScript.TestCase22.SearchSoftware|FullyQualifiedName=TestScript.TestCase23.AccessibilityWidgetCheck|FullyQualifiedName=TestScript.TestCase24.AccessibilityWidgetFontSizeCheck|FullyQualifiedName=TestScript.TestCase25.CheckYoutubeVideo|FullyQualifiedName=TestScript.TestCase26.CheckChatonPLAXIS|FullyQualifiedName=TestScript.TestCase27.GenericSearchForTwoWords|FullyQualifiedName=TestScript.TestCase28.SearchForEmptyResults|FullyQualifiedName=TestScript.TestCase29.SearchifSubNavExists_CADSoftware|FullyQualifiedName=TestScript.TestCase3.GenericSearch|FullyQualifiedName=TestScript.TestCase4.VideoCheckAboutUS|FullyQualifiedName=TestScript.TestCase5.VideoCheckSynchro|FullyQualifiedName=TestScript.TestCase6.Pencil_banner|FullyQualifiedName=TestScript.TestCase9.CheckLogoloaded)" --no-build  "--logger:trx;LogFileName=C:\Users\Roopa.Byrichetty\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml" 
+2023-05-02 07:17:24.6519|INFO|browserstack_sdk.Program|
+2023-05-02 07:17:24.6519|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_STAGE_Bentley.com\nunit-browserstack-sdk\NUnit-BrowserStack>echo "running bat file" 
+2023-05-02 07:17:24.6519|INFO|browserstack_sdk.Program|"running bat file"
+2023-05-02 07:17:24.6519|INFO|browserstack_sdk.Program|
+2023-05-02 07:17:24.6519|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_STAGE_Bentley.com\nunit-browserstack-sdk\NUnit-BrowserStack>cd C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_STAGE_Bentley.com\nunit-browserstack-sdk\NUnit-BrowserStack 
+2023-05-02 07:17:24.6519|INFO|browserstack_sdk.Program|
+2023-05-02 07:17:24.6519|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_STAGE_Bentley.com\nunit-browserstack-sdk\NUnit-BrowserStack>dotnet test "C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_STAGE_Bentley.com\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net6.0\SingleTest.dll" --filter "(FullyQualifiedName=TestScript.TestCase1.HomePageLoad|FullyQualifiedName=TestScript.TestCase10.ScrollToTop|FullyQualifiedName=TestScript.TestCase11.CheckHeaderExists|FullyQualifiedName=TestScript.TestCase12.CheckFooterExists|FullyQualifiedName=TestScript.TestCase13.CheckHeaderNavigationExists|FullyQualifiedName=TestScript.TestCase14.CheckSubHeaderNavigationExists|FullyQualifiedName=TestScript.TestCase15.CheckFooterNavExistence|FullyQualifiedName=TestScript.TestCase16.ProfileSignIn|FullyQualifiedName=TestScript.TestCase17.PageLoadTime|FullyQualifiedName=TestScript.TestCase18.CheckIframeloaded|FullyQualifiedName=TestScript.TestCase19.SearchNewsRoom|FullyQualifiedName=TestScript.TestCase2.SearchResources|FullyQualifiedName=TestScript.TestCase20.SearchChannelPartners|FullyQualifiedName=TestScript.TestCase21.SearchProductTrainingPartners|FullyQualifiedName=TestScript.TestCase22.SearchSoftware|FullyQualifiedName=TestScript.TestCase23.AccessibilityWidgetCheck|FullyQualifiedName=TestScript.TestCase24.AccessibilityWidgetFontSizeCheck|FullyQualifiedName=TestScript.TestCase25.CheckYoutubeVideo|FullyQualifiedName=TestScript.TestCase26.CheckChatonPLAXIS|FullyQualifiedName=TestScript.TestCase27.GenericSearchForTwoWords|FullyQualifiedName=TestScript.TestCase28.SearchForEmptyResults|FullyQualifiedName=TestScript.TestCase29.SearchifSubNavExists_CADSoftware|FullyQualifiedName=TestScript.TestCase3.GenericSearch|FullyQualifiedName=TestScript.TestCase4.VideoCheckAboutUS|FullyQualifiedName=TestScript.TestCase5.VideoCheckSynchro|FullyQualifiedName=TestScript.TestCase6.Pencil_banner|FullyQualifiedName=TestScript.TestCase9.CheckLogoloaded)" --no-build  "--logger:trx;LogFileName=C:\Users\Roopa.Byrichetty\AppData\Local\Temp\.browserstack\results_dotnet\result_2\NUnit-Browserstack.xml" 
+2023-05-02 07:17:24.6558|INFO|browserstack_sdk.Program|
+2023-05-02 07:17:24.6558|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_STAGE_Bentley.com\nunit-browserstack-sdk\NUnit-BrowserStack>echo "running bat file" 
+2023-05-02 07:17:24.6558|INFO|browserstack_sdk.Program|"running bat file"
+2023-05-02 07:17:24.6558|INFO|browserstack_sdk.Program|
+2023-05-02 07:17:24.6558|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_STAGE_Bentley.com\nunit-browserstack-sdk\NUnit-BrowserStack>cd C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_STAGE_Bentley.com\nunit-browserstack-sdk\NUnit-BrowserStack 
+2023-05-02 07:17:24.6558|INFO|browserstack_sdk.Program|
+2023-05-02 07:17:24.6558|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_STAGE_Bentley.com\nunit-browserstack-sdk\NUnit-BrowserStack>dotnet test "C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_STAGE_Bentley.com\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net6.0\SingleTest.dll" --filter "(FullyQualifiedName=TestScript.TestCase1.HomePageLoad|FullyQualifiedName=TestScript.TestCase10.ScrollToTop|FullyQualifiedName=TestScript.TestCase11.CheckHeaderExists|FullyQualifiedName=TestScript.TestCase12.CheckFooterExists|FullyQualifiedName=TestScript.TestCase13.CheckHeaderNavigationExists|FullyQualifiedName=TestScript.TestCase14.CheckSubHeaderNavigationExists|FullyQualifiedName=TestScript.TestCase15.CheckFooterNavExistence|FullyQualifiedName=TestScript.TestCase16.ProfileSignIn|FullyQualifiedName=TestScript.TestCase17.PageLoadTime|FullyQualifiedName=TestScript.TestCase18.CheckIframeloaded|FullyQualifiedName=TestScript.TestCase19.SearchNewsRoom|FullyQualifiedName=TestScript.TestCase2.SearchResources|FullyQualifiedName=TestScript.TestCase20.SearchChannelPartners|FullyQualifiedName=TestScript.TestCase21.SearchProductTrainingPartners|FullyQualifiedName=TestScript.TestCase22.SearchSoftware|FullyQualifiedName=TestScript.TestCase23.AccessibilityWidgetCheck|FullyQualifiedName=TestScript.TestCase24.AccessibilityWidgetFontSizeCheck|FullyQualifiedName=TestScript.TestCase25.CheckYoutubeVideo|FullyQualifiedName=TestScript.TestCase26.CheckChatonPLAXIS|FullyQualifiedName=TestScript.TestCase27.GenericSearchForTwoWords|FullyQualifiedName=TestScript.TestCase28.SearchForEmptyResults|FullyQualifiedName=TestScript.TestCase29.SearchifSubNavExists_CADSoftware|FullyQualifiedName=TestScript.TestCase3.GenericSearch|FullyQualifiedName=TestScript.TestCase4.VideoCheckAboutUS|FullyQualifiedName=TestScript.TestCase5.VideoCheckSynchro|FullyQualifiedName=TestScript.TestCase6.Pencil_banner|FullyQualifiedName=TestScript.TestCase9.CheckLogoloaded)" --no-build  "--logger:trx;LogFileName=C:\Users\Roopa.Byrichetty\AppData\Local\Temp\.browserstack\results_dotnet\result_3\NUnit-Browserstack.xml" 
+2023-05-02 07:17:24.8181|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+2023-05-02 07:17:24.8181|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+2023-05-02 07:17:24.8415|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+2023-05-02 07:17:24.8474|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+2023-05-02 07:17:24.9702|INFO|browserstack_sdk.Program|Microsoft (R) Test Execution Command Line Tool Version 17.5.0 (x64)
+2023-05-02 07:17:24.9702|INFO|browserstack_sdk.Program|Copyright (c) Microsoft Corporation.  All rights reserved.
+2023-05-02 07:17:24.9702|INFO|browserstack_sdk.Program|
+2023-05-02 07:17:24.9702|INFO|browserstack_sdk.Program|Microsoft (R) Test Execution Command Line Tool Version 17.5.0 (x64)
+2023-05-02 07:17:24.9702|INFO|browserstack_sdk.Program|Copyright (c) Microsoft Corporation.  All rights reserved.
+2023-05-02 07:17:24.9702|INFO|browserstack_sdk.Program|
+2023-05-02 07:17:24.9945|INFO|browserstack_sdk.Program|Microsoft (R) Test Execution Command Line Tool Version 17.5.0 (x64)
+2023-05-02 07:17:24.9945|INFO|browserstack_sdk.Program|Copyright (c) Microsoft Corporation.  All rights reserved.
+2023-05-02 07:17:24.9992|INFO|browserstack_sdk.Program|
+2023-05-02 07:17:24.9992|INFO|browserstack_sdk.Program|Microsoft (R) Test Execution Command Line Tool Version 17.5.0 (x64)
+2023-05-02 07:17:24.9992|INFO|browserstack_sdk.Program|Copyright (c) Microsoft Corporation.  All rights reserved.
+2023-05-02 07:17:24.9992|INFO|browserstack_sdk.Program|
+2023-05-02 07:17:25.0856|INFO|browserstack_sdk.Program|Starting test execution, please wait...
+2023-05-02 07:17:25.0856|INFO|browserstack_sdk.Program|Starting test execution, please wait...
+2023-05-02 07:17:25.0957|INFO|browserstack_sdk.Program|Starting test execution, please wait...
+2023-05-02 07:17:25.0957|INFO|browserstack_sdk.Program|Starting test execution, please wait...
+2023-05-02 07:17:25.1168|INFO|browserstack_sdk.Program|A total of 1 test files matched the specified pattern.
+2023-05-02 07:17:25.1168|INFO|browserstack_sdk.Program|A total of 1 test files matched the specified pattern.
+2023-05-02 07:17:25.1317|INFO|browserstack_sdk.Program|A total of 1 test files matched the specified pattern.
+2023-05-02 07:17:25.1317|INFO|browserstack_sdk.Program|A total of 1 test files matched the specified pattern.
+2023-05-02 07:17:25.5436|INFO|browserstack_sdk.Program|Failed to load extensions from file 'C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_STAGE_Bentley.com\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net6.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+2023-05-02 07:17:25.5640|INFO|browserstack_sdk.Program|Failed to load extensions from file 'C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_STAGE_Bentley.com\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net6.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+2023-05-02 07:17:25.5640|INFO|browserstack_sdk.Program|Failed to load extensions from file 'C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_STAGE_Bentley.com\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net6.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+2023-05-02 07:17:25.5792|INFO|browserstack_sdk.Program|Failed to load extensions from file 'C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_STAGE_Bentley.com\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net6.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+2023-05-02 07:18:03.0938|INFO|browserstack_sdk.Program|Y offset value 0
+2023-05-02 07:18:03.0938|INFO|browserstack_sdk.Program|
+2023-05-02 07:18:14.7522|INFO|browserstack_sdk.Program|Y offset value 0
+2023-05-02 07:18:14.7522|INFO|browserstack_sdk.Program|
+2023-05-02 07:18:14.8232|INFO|browserstack_sdk.Program|Y offset value 0
+2023-05-02 07:18:14.8232|INFO|browserstack_sdk.Program|
+2023-05-02 07:18:19.1953|INFO|browserstack_sdk.Program|Y offset value 0
+2023-05-02 07:18:19.1953|INFO|browserstack_sdk.Program|
+2023-05-02 07:18:55.6540|INFO|browserstack_sdk.Program|These are the items Digital Twins
+2023-05-02 07:18:55.6540|INFO|browserstack_sdk.Program|
+2023-05-02 07:18:55.6548|INFO|browserstack_sdk.Program|  Failed CheckHeaderNavigationExists [18 s]
+2023-05-02 07:18:55.6548|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-02 07:18:55.6548|INFO|browserstack_sdk.Program|     Expected string length 13 but was 0. Strings differ at index 0.
+2023-05-02 07:18:55.6548|INFO|browserstack_sdk.Program|  Expected: "Digital Twins"
+2023-05-02 07:18:55.6548|INFO|browserstack_sdk.Program|  But was:  <string.Empty>
+2023-05-02 07:18:55.6548|INFO|browserstack_sdk.Program|  -----------^
+2023-05-02 07:18:55.6548|INFO|browserstack_sdk.Program|
+2023-05-02 07:18:55.6548|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-02 07:18:55.6548|INFO|browserstack_sdk.Program|     at TestScript.TestCase13.CheckHeaderNavigationExists_Patch2(TestCase13 this)
+2023-05-02 07:18:55.6548|INFO|browserstack_sdk.Program|
+2023-05-02 07:18:55.6548|INFO|browserstack_sdk.Program|1)    at TestScript.TestCase13.CheckHeaderNavigationExists_Patch2(TestCase13 this)
+2023-05-02 07:18:55.6548|INFO|browserstack_sdk.Program|
+2023-05-02 07:18:55.6548|INFO|browserstack_sdk.Program|
+2023-05-02 07:18:55.6548|INFO|browserstack_sdk.Program|  Standard Output Messages:
+2023-05-02 07:18:55.6548|INFO|browserstack_sdk.Program| These are the items Digital Twins
+2023-05-02 07:18:55.6548|INFO|browserstack_sdk.Program|
+2023-05-02 07:18:55.6548|INFO|browserstack_sdk.Program|
+2023-05-02 07:19:05.0955|INFO|browserstack_sdk.Program|These are the items 
+2023-05-02 07:19:05.0955|INFO|browserstack_sdk.Program|These are the items Digital Twins
+2023-05-02 07:19:05.0955|INFO|browserstack_sdk.Program|
+2023-05-02 07:19:07.8401|INFO|browserstack_sdk.Program|These are the items 
+2023-05-02 07:19:07.8401|INFO|browserstack_sdk.Program|These are the items Digital Twins
+2023-05-02 07:19:07.8401|INFO|browserstack_sdk.Program|
+2023-05-02 07:19:19.2004|INFO|browserstack_sdk.Program|These are the items Industry
+2023-05-02 07:19:19.2004|INFO|browserstack_sdk.Program|
+2023-05-02 07:19:19.2019|INFO|browserstack_sdk.Program|  Failed CheckSubHeaderNavigationExists [23 s]
+2023-05-02 07:19:19.2019|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-02 07:19:19.2019|INFO|browserstack_sdk.Program|     Expected string length 15 but was 0. Strings differ at index 0.
+2023-05-02 07:19:19.2019|INFO|browserstack_sdk.Program|  Expected: "Water Utilities"
+2023-05-02 07:19:19.2019|INFO|browserstack_sdk.Program|  But was:  <string.Empty>
+2023-05-02 07:19:19.2019|INFO|browserstack_sdk.Program|  -----------^
+2023-05-02 07:19:19.2019|INFO|browserstack_sdk.Program|
+2023-05-02 07:19:19.2019|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-02 07:19:19.2019|INFO|browserstack_sdk.Program|     at TestScript.TestCase14.CheckSubHeaderNavigationExists_Patch2(TestCase14 this)
+2023-05-02 07:19:19.2019|INFO|browserstack_sdk.Program|
+2023-05-02 07:19:19.2019|INFO|browserstack_sdk.Program|1)    at TestScript.TestCase14.CheckSubHeaderNavigationExists_Patch2(TestCase14 this)
+2023-05-02 07:19:19.2019|INFO|browserstack_sdk.Program|
+2023-05-02 07:19:19.2019|INFO|browserstack_sdk.Program|
+2023-05-02 07:19:19.2019|INFO|browserstack_sdk.Program|  Standard Output Messages:
+2023-05-02 07:19:19.2019|INFO|browserstack_sdk.Program| These are the items Industry
+2023-05-02 07:19:19.2019|INFO|browserstack_sdk.Program|
+2023-05-02 07:19:19.2019|INFO|browserstack_sdk.Program|
+2023-05-02 07:19:28.0479|INFO|browserstack_sdk.Program|These are the items 
+2023-05-02 07:19:28.0479|INFO|browserstack_sdk.Program|These are the items Industry
+2023-05-02 07:19:28.0479|INFO|browserstack_sdk.Program|
+2023-05-02 07:19:28.0479|INFO|browserstack_sdk.Program|  Failed CheckSubHeaderNavigationExists [22 s]
+2023-05-02 07:19:28.0479|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-02 07:19:28.0479|INFO|browserstack_sdk.Program|     Expected string length 15 but was 4. Strings differ at index 0.
+2023-05-02 07:19:28.0479|INFO|browserstack_sdk.Program|  Expected: "Water Utilities"
+2023-05-02 07:19:28.0479|INFO|browserstack_sdk.Program|  But was:  "None"
+2023-05-02 07:19:28.0479|INFO|browserstack_sdk.Program|  -----------^
+2023-05-02 07:19:28.0479|INFO|browserstack_sdk.Program|
+2023-05-02 07:19:28.0479|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-02 07:19:28.0479|INFO|browserstack_sdk.Program|     at TestScript.TestCase14.CheckSubHeaderNavigationExists_Patch2(TestCase14 this)
+2023-05-02 07:19:28.0479|INFO|browserstack_sdk.Program|
+2023-05-02 07:19:28.0479|INFO|browserstack_sdk.Program|1)    at TestScript.TestCase14.CheckSubHeaderNavigationExists_Patch2(TestCase14 this)
+2023-05-02 07:19:28.0479|INFO|browserstack_sdk.Program|
+2023-05-02 07:19:28.0479|INFO|browserstack_sdk.Program|
+2023-05-02 07:19:28.0479|INFO|browserstack_sdk.Program|  Standard Output Messages:
+2023-05-02 07:19:28.0479|INFO|browserstack_sdk.Program| These are the items 
+2023-05-02 07:19:28.0479|INFO|browserstack_sdk.Program| These are the items Industry
+2023-05-02 07:19:28.0479|INFO|browserstack_sdk.Program|
+2023-05-02 07:19:28.0479|INFO|browserstack_sdk.Program|
+2023-05-02 07:19:32.2627|INFO|browserstack_sdk.Program|These are the items 
+2023-05-02 07:19:32.2627|INFO|browserstack_sdk.Program|These are the items Industry
+2023-05-02 07:19:32.2627|INFO|browserstack_sdk.Program|
+2023-05-02 07:19:32.2643|INFO|browserstack_sdk.Program|  Failed CheckSubHeaderNavigationExists [24 s]
+2023-05-02 07:19:32.2643|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-02 07:19:32.2643|INFO|browserstack_sdk.Program|     Expected string length 15 but was 4. Strings differ at index 0.
+2023-05-02 07:19:32.2643|INFO|browserstack_sdk.Program|  Expected: "Water Utilities"
+2023-05-02 07:19:32.2643|INFO|browserstack_sdk.Program|  But was:  "None"
+2023-05-02 07:19:32.2643|INFO|browserstack_sdk.Program|  -----------^
+2023-05-02 07:19:32.2643|INFO|browserstack_sdk.Program|
+2023-05-02 07:19:32.2643|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-02 07:19:32.2643|INFO|browserstack_sdk.Program|     at TestScript.TestCase14.CheckSubHeaderNavigationExists_Patch2(TestCase14 this)
+2023-05-02 07:19:32.2643|INFO|browserstack_sdk.Program|
+2023-05-02 07:19:32.2643|INFO|browserstack_sdk.Program|1)    at TestScript.TestCase14.CheckSubHeaderNavigationExists_Patch2(TestCase14 this)
+2023-05-02 07:19:32.2643|INFO|browserstack_sdk.Program|
+2023-05-02 07:19:32.2643|INFO|browserstack_sdk.Program|
+2023-05-02 07:19:32.2643|INFO|browserstack_sdk.Program|  Standard Output Messages:
+2023-05-02 07:19:32.2643|INFO|browserstack_sdk.Program| These are the items 
+2023-05-02 07:19:32.2643|INFO|browserstack_sdk.Program| These are the items Industry
+2023-05-02 07:19:32.2643|INFO|browserstack_sdk.Program|
+2023-05-02 07:19:32.2643|INFO|browserstack_sdk.Program|
+2023-05-02 07:19:54.0923|INFO|browserstack_sdk.Program|These are the items 
+2023-05-02 07:19:54.0923|INFO|browserstack_sdk.Program|These are the items Digital Twins
+2023-05-02 07:19:54.0923|INFO|browserstack_sdk.Program|
+2023-05-02 07:20:12.4138|INFO|browserstack_sdk.Program|  Failed CheckFooterNavExistence [53 s]
+2023-05-02 07:20:12.4138|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-02 07:20:12.4138|INFO|browserstack_sdk.Program|     Expected string length 7 but was 0. Strings differ at index 0.
+2023-05-02 07:20:12.4138|INFO|browserstack_sdk.Program|  Expected: "Support"
+2023-05-02 07:20:12.4138|INFO|browserstack_sdk.Program|  But was:  <string.Empty>
+2023-05-02 07:20:12.4138|INFO|browserstack_sdk.Program|  -----------^
+2023-05-02 07:20:12.4138|INFO|browserstack_sdk.Program|
+2023-05-02 07:20:12.4138|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-02 07:20:12.4138|INFO|browserstack_sdk.Program|     at TestScript.TestCase15.CheckFooterNavExistence_Patch2(TestCase15 this)
+2023-05-02 07:20:12.4138|INFO|browserstack_sdk.Program|
+2023-05-02 07:20:12.4138|INFO|browserstack_sdk.Program|1)    at TestScript.TestCase15.CheckFooterNavExistence_Patch2(TestCase15 this)
+2023-05-02 07:20:12.4138|INFO|browserstack_sdk.Program|
+2023-05-02 07:20:12.4138|INFO|browserstack_sdk.Program|
+2023-05-02 07:20:29.6393|INFO|browserstack_sdk.Program|These are the items 
+2023-05-02 07:20:29.6393|INFO|browserstack_sdk.Program|These are the items Industry
+2023-05-02 07:20:29.6393|INFO|browserstack_sdk.Program|
+2023-05-02 07:20:29.6393|INFO|browserstack_sdk.Program|  Failed CheckSubHeaderNavigationExists [35 s]
+2023-05-02 07:20:29.6393|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-02 07:20:29.6393|INFO|browserstack_sdk.Program|     Expected string length 15 but was 4. Strings differ at index 0.
+2023-05-02 07:20:29.6393|INFO|browserstack_sdk.Program|  Expected: "Water Utilities"
+2023-05-02 07:20:29.6393|INFO|browserstack_sdk.Program|  But was:  "None"
+2023-05-02 07:20:29.6393|INFO|browserstack_sdk.Program|  -----------^
+2023-05-02 07:20:29.6393|INFO|browserstack_sdk.Program|
+2023-05-02 07:20:29.6393|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-02 07:20:29.6393|INFO|browserstack_sdk.Program|     at TestScript.TestCase14.CheckSubHeaderNavigationExists_Patch2(TestCase14 this)
+2023-05-02 07:20:29.6393|INFO|browserstack_sdk.Program|
+2023-05-02 07:20:29.6393|INFO|browserstack_sdk.Program|1)    at TestScript.TestCase14.CheckSubHeaderNavigationExists_Patch2(TestCase14 this)
+2023-05-02 07:20:29.6393|INFO|browserstack_sdk.Program|
+2023-05-02 07:20:29.6393|INFO|browserstack_sdk.Program|
+2023-05-02 07:20:29.6393|INFO|browserstack_sdk.Program|  Standard Output Messages:
+2023-05-02 07:20:29.6393|INFO|browserstack_sdk.Program| These are the items 
+2023-05-02 07:20:29.6393|INFO|browserstack_sdk.Program| These are the items Industry
+2023-05-02 07:20:29.6393|INFO|browserstack_sdk.Program|
+2023-05-02 07:20:29.6393|INFO|browserstack_sdk.Program|
+2023-05-02 07:20:55.6618|INFO|browserstack_sdk.Program|  Failed ProfileSignIn [43 s]
+2023-05-02 07:20:55.6618|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-02 07:20:55.6618|INFO|browserstack_sdk.Program|     Expected string length 13 but was 0. Strings differ at index 0.
+2023-05-02 07:20:55.6618|INFO|browserstack_sdk.Program|  Expected: "Therese Stata"
+2023-05-02 07:20:55.6618|INFO|browserstack_sdk.Program|  But was:  <string.Empty>
+2023-05-02 07:20:55.6618|INFO|browserstack_sdk.Program|  -----------^
+2023-05-02 07:20:55.6618|INFO|browserstack_sdk.Program|
+2023-05-02 07:20:55.6618|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-02 07:20:55.6618|INFO|browserstack_sdk.Program|     at TestScript.TestCase16.ProfileSignIn_Patch2(TestCase16 this)
+2023-05-02 07:20:55.6618|INFO|browserstack_sdk.Program|
+2023-05-02 07:20:55.6618|INFO|browserstack_sdk.Program|1)    at TestScript.TestCase16.ProfileSignIn_Patch2(TestCase16 this)
+2023-05-02 07:20:55.6618|INFO|browserstack_sdk.Program|
+2023-05-02 07:20:55.6618|INFO|browserstack_sdk.Program|
+2023-05-02 07:21:03.5173|INFO|browserstack_sdk.Program|  Failed ProfileSignIn [39 s]
+2023-05-02 07:21:03.5173|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-02 07:21:03.5173|INFO|browserstack_sdk.Program|     Expected string length 13 but was 0. Strings differ at index 0.
+2023-05-02 07:21:03.5173|INFO|browserstack_sdk.Program|  Expected: "Therese Stata"
+2023-05-02 07:21:03.5173|INFO|browserstack_sdk.Program|  But was:  <string.Empty>
+2023-05-02 07:21:03.5173|INFO|browserstack_sdk.Program|  -----------^
+2023-05-02 07:21:03.5173|INFO|browserstack_sdk.Program|
+2023-05-02 07:21:03.5173|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-02 07:21:03.5173|INFO|browserstack_sdk.Program|     at TestScript.TestCase16.ProfileSignIn_Patch2(TestCase16 this)
+2023-05-02 07:21:03.5173|INFO|browserstack_sdk.Program|
+2023-05-02 07:21:03.5173|INFO|browserstack_sdk.Program|1)    at TestScript.TestCase16.ProfileSignIn_Patch2(TestCase16 this)
+2023-05-02 07:21:03.5173|INFO|browserstack_sdk.Program|
+2023-05-02 07:21:03.5173|INFO|browserstack_sdk.Program|
+2023-05-02 07:21:11.2848|INFO|browserstack_sdk.Program|Page load status = complete
+2023-05-02 07:21:11.2848|INFO|browserstack_sdk.Program|Pageload time = 531
+2023-05-02 07:21:11.2848|INFO|browserstack_sdk.Program|
+2023-05-02 07:21:17.3336|INFO|browserstack_sdk.Program|Page load status = complete
+2023-05-02 07:21:17.3336|INFO|browserstack_sdk.Program|Pageload time = 116
+2023-05-02 07:21:17.3336|INFO|browserstack_sdk.Program|
+2023-05-02 07:21:28.4406|INFO|browserstack_sdk.Program|iframe is displayed
+2023-05-02 07:21:28.4406|INFO|browserstack_sdk.Program|
+2023-05-02 07:21:36.1822|INFO|browserstack_sdk.Program|iframe is displayed
+2023-05-02 07:21:36.1822|INFO|browserstack_sdk.Program|
+2023-05-02 07:21:36.2331|INFO|browserstack_sdk.Program|  Failed ProfileSignIn [45 s]
+2023-05-02 07:21:36.2331|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-02 07:21:36.2331|INFO|browserstack_sdk.Program|     Expected string length 13 but was 0. Strings differ at index 0.
+2023-05-02 07:21:36.2331|INFO|browserstack_sdk.Program|  Expected: "Therese Stata"
+2023-05-02 07:21:36.2331|INFO|browserstack_sdk.Program|  But was:  <string.Empty>
+2023-05-02 07:21:36.2331|INFO|browserstack_sdk.Program|  -----------^
+2023-05-02 07:21:36.2331|INFO|browserstack_sdk.Program|
+2023-05-02 07:21:36.2331|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-02 07:21:36.2331|INFO|browserstack_sdk.Program|     at TestScript.TestCase16.ProfileSignIn_Patch2(TestCase16 this)
+2023-05-02 07:21:36.2331|INFO|browserstack_sdk.Program|
+2023-05-02 07:21:36.2331|INFO|browserstack_sdk.Program|1)    at TestScript.TestCase16.ProfileSignIn_Patch2(TestCase16 this)
+2023-05-02 07:21:36.2331|INFO|browserstack_sdk.Program|
+2023-05-02 07:21:36.2331|INFO|browserstack_sdk.Program|
+2023-05-02 07:21:47.3066|INFO|browserstack_sdk.Program|Page load status = complete
+2023-05-02 07:21:47.3066|INFO|browserstack_sdk.Program|Pageload time = 238
+2023-05-02 07:21:47.3066|INFO|browserstack_sdk.Program|
+2023-05-02 07:21:55.5357|INFO|browserstack_sdk.Program|  Failed SearchNewsRoom [27 s]
+2023-05-02 07:21:55.5357|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-02 07:21:55.5357|INFO|browserstack_sdk.Program|   OpenQA.Selenium.NoSuchElementException : No message provided
+2023-05-02 07:21:55.5357|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-02 07:21:55.5357|INFO|browserstack_sdk.Program|     at TestScript.TestCase19.SearchNewsRoom_Patch2(TestCase19 this)
+2023-05-02 07:21:55.5357|INFO|browserstack_sdk.Program|
+2023-05-02 07:21:59.6574|INFO|browserstack_sdk.Program|  Failed SearchNewsRoom [23 s]
+2023-05-02 07:21:59.6574|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-02 07:21:59.6574|INFO|browserstack_sdk.Program|   OpenQA.Selenium.NoSuchElementException : no such element: Unable to locate element: {"method":"css selector","selector":"#post-13841 > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-14f6c38.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default > div > div > div > div.elementor-element.elementor-element-40e9e0a.elementor-widget.elementor-widget-wpgb-facet > div > div > fieldset > div > label > input"}
+2023-05-02 07:21:59.6574|INFO|browserstack_sdk.Program|  (Session info: MicrosoftEdge=112.0.1722.34)
+2023-05-02 07:21:59.6574|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-02 07:21:59.6574|INFO|browserstack_sdk.Program|     at TestScript.TestCase19.SearchNewsRoom_Patch2(TestCase19 this)
+2023-05-02 07:21:59.6574|INFO|browserstack_sdk.Program|
+2023-05-02 07:22:02.1746|INFO|browserstack_sdk.Program|iframe is displayed
+2023-05-02 07:22:02.1746|INFO|browserstack_sdk.Program|
+2023-05-02 07:22:02.1746|INFO|browserstack_sdk.Program|  Failed ProfileSignIn [28 s]
+2023-05-02 07:22:02.1746|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-02 07:22:02.1746|INFO|browserstack_sdk.Program|     Expected string length 13 but was 0. Strings differ at index 0.
+2023-05-02 07:22:02.1746|INFO|browserstack_sdk.Program|  Expected: "Therese Stata"
+2023-05-02 07:22:02.1746|INFO|browserstack_sdk.Program|  But was:  <string.Empty>
+2023-05-02 07:22:02.1746|INFO|browserstack_sdk.Program|  -----------^
+2023-05-02 07:22:02.1746|INFO|browserstack_sdk.Program|
+2023-05-02 07:22:02.1746|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-02 07:22:02.1746|INFO|browserstack_sdk.Program|     at TestScript.TestCase16.ProfileSignIn_Patch2(TestCase16 this)
+2023-05-02 07:22:02.1746|INFO|browserstack_sdk.Program|
+2023-05-02 07:22:02.1746|INFO|browserstack_sdk.Program|1)    at TestScript.TestCase16.ProfileSignIn_Patch2(TestCase16 this)
+2023-05-02 07:22:02.1746|INFO|browserstack_sdk.Program|
+2023-05-02 07:22:02.1746|INFO|browserstack_sdk.Program|
+2023-05-02 07:22:20.4852|INFO|browserstack_sdk.Program|Page load status = complete
+2023-05-02 07:22:20.4852|INFO|browserstack_sdk.Program|Pageload time = 141
+2023-05-02 07:22:20.4852|INFO|browserstack_sdk.Program|
+2023-05-02 07:22:22.8401|INFO|browserstack_sdk.Program|  Failed SearchNewsRoom [20 s]
+2023-05-02 07:22:22.8401|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-02 07:22:22.8401|INFO|browserstack_sdk.Program|   OpenQA.Selenium.NoSuchElementException : no such element: Unable to locate element: {"method":"css selector","selector":"#post-13841 > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-14f6c38.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default > div > div > div > div.elementor-element.elementor-element-40e9e0a.elementor-widget.elementor-widget-wpgb-facet > div > div > fieldset > div > label > input"}
+2023-05-02 07:22:22.8401|INFO|browserstack_sdk.Program|  (Session info: chrome=103.0.5060.114)
+2023-05-02 07:22:22.8401|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-02 07:22:22.8401|INFO|browserstack_sdk.Program|     at TestScript.TestCase19.SearchNewsRoom_Patch2(TestCase19 this)
+2023-05-02 07:22:22.8401|INFO|browserstack_sdk.Program|
+2023-05-02 07:23:03.7842|INFO|browserstack_sdk.Program|iframe is displayed
+2023-05-02 07:23:03.7842|INFO|browserstack_sdk.Program|
+2023-05-02 07:23:20.0383|INFO|browserstack_sdk.Program|  Failed SearchProductTrainingPartners [27 s]
+2023-05-02 07:23:20.0383|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-02 07:23:20.0383|INFO|browserstack_sdk.Program|   OpenQA.Selenium.ElementNotInteractableException : No message provided
+2023-05-02 07:23:20.0383|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-02 07:23:20.0383|INFO|browserstack_sdk.Program|     at TestScript.TestCase21.SearchProductTrainingPartners_Patch2(TestCase21 this)
+2023-05-02 07:23:20.0383|INFO|browserstack_sdk.Program|
+2023-05-02 07:23:40.7979|INFO|browserstack_sdk.Program|  Failed SearchNewsRoom [37 s]
+2023-05-02 07:23:40.7979|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-02 07:23:40.7979|INFO|browserstack_sdk.Program|   OpenQA.Selenium.NoSuchElementException : Unable to locate element: #post-13841 > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-14f6c38.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default > div > div > div > div.elementor-element.elementor-element-40e9e0a.elementor-widget.elementor-widget-wpgb-facet > div > div > fieldset > div > label > input
+2023-05-02 07:23:40.7979|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-02 07:23:40.7979|INFO|browserstack_sdk.Program|     at TestScript.TestCase19.SearchNewsRoom_Patch2(TestCase19 this)
+2023-05-02 07:23:40.7979|INFO|browserstack_sdk.Program|
+2023-05-02 07:24:27.7196|INFO|browserstack_sdk.Program|0px2.880000114440918px
+2023-05-02 07:24:36.2573|INFO|browserstack_sdk.Program|0px2.88px
+2023-05-02 07:24:44.2484|INFO|browserstack_sdk.Program|0px2.88px
+2023-05-02 07:24:44.4067|INFO|browserstack_sdk.Program|  Failed AccessibilityWidgetFontSizeCheck [16 s]
+2023-05-02 07:24:44.4067|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-02 07:24:44.4067|INFO|browserstack_sdk.Program|   OpenQA.Selenium.NoSuchElementException : No message provided
+2023-05-02 07:24:44.4067|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-02 07:24:44.4067|INFO|browserstack_sdk.Program|     at TestScript.TestCase24.AccessibilityWidgetFontSizeCheck_Patch2(TestCase24 this)
+2023-05-02 07:24:44.4067|INFO|browserstack_sdk.Program|
+2023-05-02 07:25:11.8741|INFO|browserstack_sdk.Program|  Failed CheckYoutubeVideo [27 s]
+2023-05-02 07:25:11.8741|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-02 07:25:11.8741|INFO|browserstack_sdk.Program|     Expected: True
+2023-05-02 07:25:11.8741|INFO|browserstack_sdk.Program|  But was:  False
+2023-05-02 07:25:11.8741|INFO|browserstack_sdk.Program|
+2023-05-02 07:25:11.8741|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-02 07:25:11.8741|INFO|browserstack_sdk.Program|     at TestScript.TestCase25.CheckYoutubeVideo_Patch2(TestCase25 this)
+2023-05-02 07:25:11.8741|INFO|browserstack_sdk.Program|
+2023-05-02 07:25:11.8741|INFO|browserstack_sdk.Program|1)    at TestScript.TestCase25.CheckYoutubeVideo_Patch2(TestCase25 this)
+2023-05-02 07:25:11.8741|INFO|browserstack_sdk.Program|
+2023-05-02 07:25:11.8741|INFO|browserstack_sdk.Program|
+2023-05-02 07:25:13.7142|INFO|browserstack_sdk.Program|Zoom set to before1
+2023-05-02 07:25:13.7142|INFO|browserstack_sdk.Program|Zoom set to after1.2
+2023-05-02 07:25:13.7142|INFO|browserstack_sdk.Program|
+2023-05-02 07:25:26.6623|INFO|browserstack_sdk.Program|Zoom set to before1
+2023-05-02 07:25:26.6623|INFO|browserstack_sdk.Program|Zoom set to after1.2
+2023-05-02 07:25:26.6623|INFO|browserstack_sdk.Program|
+2023-05-02 07:25:30.3988|INFO|browserstack_sdk.Program|  Failed CheckChatonPLAXIS [18 s]
+2023-05-02 07:25:30.3988|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-02 07:25:30.3988|INFO|browserstack_sdk.Program|     Expected: True
+2023-05-02 07:25:30.3988|INFO|browserstack_sdk.Program|  But was:  False
+2023-05-02 07:25:30.3988|INFO|browserstack_sdk.Program|
+2023-05-02 07:25:30.3988|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-02 07:25:30.3988|INFO|browserstack_sdk.Program|     at TestScript.TestCase26.CheckChatonPLAXIS_Patch2(TestCase26 this)
+2023-05-02 07:25:30.3988|INFO|browserstack_sdk.Program|
+2023-05-02 07:25:30.3988|INFO|browserstack_sdk.Program|1)    at TestScript.TestCase26.CheckChatonPLAXIS_Patch2(TestCase26 this)
+2023-05-02 07:25:30.3988|INFO|browserstack_sdk.Program|
+2023-05-02 07:25:30.3988|INFO|browserstack_sdk.Program|
+2023-05-02 07:25:50.9146|INFO|browserstack_sdk.Program|  Failed CheckChatonPLAXIS [15 s]
+2023-05-02 07:25:50.9146|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-02 07:25:50.9146|INFO|browserstack_sdk.Program|     Expected: True
+2023-05-02 07:25:50.9146|INFO|browserstack_sdk.Program|  But was:  False
+2023-05-02 07:25:50.9146|INFO|browserstack_sdk.Program|
+2023-05-02 07:25:50.9146|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-02 07:25:50.9146|INFO|browserstack_sdk.Program|     at TestScript.TestCase26.CheckChatonPLAXIS_Patch2(TestCase26 this)
+2023-05-02 07:25:50.9146|INFO|browserstack_sdk.Program|
+2023-05-02 07:25:50.9146|INFO|browserstack_sdk.Program|1)    at TestScript.TestCase26.CheckChatonPLAXIS_Patch2(TestCase26 this)
+2023-05-02 07:25:50.9146|INFO|browserstack_sdk.Program|
+2023-05-02 07:25:50.9146|INFO|browserstack_sdk.Program|
+2023-05-02 07:25:57.0180|INFO|browserstack_sdk.Program|Number of articles 16
+2023-05-02 07:25:57.0180|INFO|browserstack_sdk.Program|
+2023-05-02 07:26:12.1599|INFO|browserstack_sdk.Program|  Failed CheckChatonPLAXIS [12 s]
+2023-05-02 07:26:12.1599|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-02 07:26:12.1599|INFO|browserstack_sdk.Program|     Expected: True
+2023-05-02 07:26:12.1599|INFO|browserstack_sdk.Program|  But was:  False
+2023-05-02 07:26:12.1599|INFO|browserstack_sdk.Program|
+2023-05-02 07:26:12.1599|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-02 07:26:12.1599|INFO|browserstack_sdk.Program|     at TestScript.TestCase26.CheckChatonPLAXIS_Patch2(TestCase26 this)
+2023-05-02 07:26:12.1599|INFO|browserstack_sdk.Program|
+2023-05-02 07:26:12.1599|INFO|browserstack_sdk.Program|1)    at TestScript.TestCase26.CheckChatonPLAXIS_Patch2(TestCase26 this)
+2023-05-02 07:26:12.1599|INFO|browserstack_sdk.Program|
+2023-05-02 07:26:12.1599|INFO|browserstack_sdk.Program|
+2023-05-02 07:26:23.6758|INFO|browserstack_sdk.Program|Number of articles 16
+2023-05-02 07:26:23.6758|INFO|browserstack_sdk.Program|
+2023-05-02 07:26:24.1005|INFO|browserstack_sdk.Program|Search result text 
+2023-05-02 07:26:24.1005|INFO|browserstack_sdk.Program|					Keep calm and try something else. Check your spelling, search for a different term, or take a look at some of our featured software options below.				
+2023-05-02 07:26:24.1005|INFO|browserstack_sdk.Program|
+2023-05-02 07:26:36.7504|INFO|browserstack_sdk.Program|Number of articles 16
+2023-05-02 07:26:36.7504|INFO|browserstack_sdk.Program|
+2023-05-02 07:26:48.0949|INFO|browserstack_sdk.Program|  Failed SearchifSubNavExists_CADSoftware [23 s]
+2023-05-02 07:26:48.0949|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-02 07:26:48.0949|INFO|browserstack_sdk.Program|     Expected: True
+2023-05-02 07:26:48.0949|INFO|browserstack_sdk.Program|  But was:  False
+2023-05-02 07:26:48.0949|INFO|browserstack_sdk.Program|
+2023-05-02 07:26:48.0949|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-02 07:26:48.0949|INFO|browserstack_sdk.Program|     at TestScript.TestCase29.SearchifSubNavExists_CADSoftware_Patch2(TestCase29 this)
+2023-05-02 07:26:48.0949|INFO|browserstack_sdk.Program|
+2023-05-02 07:26:48.0949|INFO|browserstack_sdk.Program|1)    at TestScript.TestCase29.SearchifSubNavExists_CADSoftware_Patch2(TestCase29 this)
+2023-05-02 07:26:48.0949|INFO|browserstack_sdk.Program|
+2023-05-02 07:26:48.0949|INFO|browserstack_sdk.Program|
+2023-05-02 07:26:49.6753|INFO|browserstack_sdk.Program|0px2.88px
+2023-05-02 07:26:54.0656|INFO|browserstack_sdk.Program|Search result text Keep calm and try something else. Check your spelling, search for a different term, or take a look at some of our featured software options below.
+2023-05-02 07:26:54.0656|INFO|browserstack_sdk.Program|
+2023-05-02 07:27:08.1940|INFO|browserstack_sdk.Program|  Failed SearchifSubNavExists_CADSoftware [14 s]
+2023-05-02 07:27:08.1940|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-02 07:27:08.1940|INFO|browserstack_sdk.Program|     Expected: True
+2023-05-02 07:27:08.1940|INFO|browserstack_sdk.Program|  But was:  False
+2023-05-02 07:27:08.1940|INFO|browserstack_sdk.Program|
+2023-05-02 07:27:08.1940|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-02 07:27:08.1940|INFO|browserstack_sdk.Program|     at TestScript.TestCase29.SearchifSubNavExists_CADSoftware_Patch2(TestCase29 this)
+2023-05-02 07:27:08.1940|INFO|browserstack_sdk.Program|
+2023-05-02 07:27:08.1940|INFO|browserstack_sdk.Program|1)    at TestScript.TestCase29.SearchifSubNavExists_CADSoftware_Patch2(TestCase29 this)
+2023-05-02 07:27:08.1940|INFO|browserstack_sdk.Program|
+2023-05-02 07:27:08.1940|INFO|browserstack_sdk.Program|
+2023-05-02 07:27:10.5339|INFO|browserstack_sdk.Program|  Failed AccessibilityWidgetFontSizeCheck [20 s]
+2023-05-02 07:27:10.5339|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-02 07:27:10.5339|INFO|browserstack_sdk.Program|   OpenQA.Selenium.NoSuchElementException : Unable to locate element: body > div.uw-sl
+2023-05-02 07:27:10.5339|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-02 07:27:10.5339|INFO|browserstack_sdk.Program|     at TestScript.TestCase24.AccessibilityWidgetFontSizeCheck_Patch2(TestCase24 this)
+2023-05-02 07:27:10.5339|INFO|browserstack_sdk.Program|
+2023-05-02 07:27:12.3243|INFO|browserstack_sdk.Program|  Failed GenericSearch [24 s]
+2023-05-02 07:27:12.3243|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-02 07:27:12.3243|INFO|browserstack_sdk.Program|     String lengths are both 5. Strings differ at index 0.
+2023-05-02 07:27:12.3243|INFO|browserstack_sdk.Program|  Expected: "ITwin"
+2023-05-02 07:27:12.3243|INFO|browserstack_sdk.Program|  But was:  "iTwin"
+2023-05-02 07:27:12.3243|INFO|browserstack_sdk.Program|  -----------^
+2023-05-02 07:27:12.3243|INFO|browserstack_sdk.Program|
+2023-05-02 07:27:12.3243|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-02 07:27:12.3243|INFO|browserstack_sdk.Program|     at TestScript.TestCase3.GenericSearch_Patch2(TestCase3 this)
+2023-05-02 07:27:12.3243|INFO|browserstack_sdk.Program|
+2023-05-02 07:27:12.3243|INFO|browserstack_sdk.Program|1)    at TestScript.TestCase3.GenericSearch_Patch2(TestCase3 this)
+2023-05-02 07:27:12.3243|INFO|browserstack_sdk.Program|
+2023-05-02 07:27:12.3243|INFO|browserstack_sdk.Program|
+2023-05-02 07:27:19.7557|INFO|browserstack_sdk.Program|Search result text Keep calm and try something else. Check your spelling, search for a different term, or take a look at some of our featured software options below.
+2023-05-02 07:27:19.7557|INFO|browserstack_sdk.Program|
+2023-05-02 07:27:31.8961|INFO|browserstack_sdk.Program|  Failed SearchifSubNavExists_CADSoftware [12 s]
+2023-05-02 07:27:31.8961|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-02 07:27:31.8961|INFO|browserstack_sdk.Program|     Expected: True
+2023-05-02 07:27:31.8961|INFO|browserstack_sdk.Program|  But was:  False
+2023-05-02 07:27:31.8961|INFO|browserstack_sdk.Program|
+2023-05-02 07:27:31.8961|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-02 07:27:31.8961|INFO|browserstack_sdk.Program|     at TestScript.TestCase29.SearchifSubNavExists_CADSoftware_Patch2(TestCase29 this)
+2023-05-02 07:27:31.8961|INFO|browserstack_sdk.Program|
+2023-05-02 07:27:31.8961|INFO|browserstack_sdk.Program|1)    at TestScript.TestCase29.SearchifSubNavExists_CADSoftware_Patch2(TestCase29 this)
+2023-05-02 07:27:31.8961|INFO|browserstack_sdk.Program|
+2023-05-02 07:27:31.8961|INFO|browserstack_sdk.Program|
+2023-05-02 07:27:46.5901|INFO|browserstack_sdk.Program|  Failed GenericSearch [14 s]
+2023-05-02 07:27:46.5901|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-02 07:27:46.5901|INFO|browserstack_sdk.Program|     Expected string length 5 but was 82. Strings differ at index 0.
+2023-05-02 07:27:46.5901|INFO|browserstack_sdk.Program|  Expected: "ITwin"
+2023-05-02 07:27:46.5901|INFO|browserstack_sdk.Program|  But was:  "unknown error: unexpected command response\n  (Session info: c..."
+2023-05-02 07:27:46.5901|INFO|browserstack_sdk.Program|  -----------^
+2023-05-02 07:27:46.5901|INFO|browserstack_sdk.Program|
+2023-05-02 07:27:46.5901|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-02 07:27:46.5901|INFO|browserstack_sdk.Program|     at TestScript.TestCase3.GenericSearch_Patch2(TestCase3 this)
+2023-05-02 07:27:46.5901|INFO|browserstack_sdk.Program|
+2023-05-02 07:27:46.5901|INFO|browserstack_sdk.Program|1)    at TestScript.TestCase3.GenericSearch_Patch2(TestCase3 this)
+2023-05-02 07:27:46.5901|INFO|browserstack_sdk.Program|
+2023-05-02 07:27:46.5901|INFO|browserstack_sdk.Program|
+2023-05-02 07:28:01.3650|INFO|browserstack_sdk.Program|  Failed VideoCheckAboutUS [14 s]
+2023-05-02 07:28:01.3650|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-02 07:28:01.3650|INFO|browserstack_sdk.Program|   OpenQA.Selenium.WebDriverException : unknown error: unexpected command response
+2023-05-02 07:28:01.3650|INFO|browserstack_sdk.Program|  (Session info: chrome=103.0.5060.114)
+2023-05-02 07:28:01.3650|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-02 07:28:01.3650|INFO|browserstack_sdk.Program|     at TestScript.TestCase4.VideoCheckAboutUS_Patch2(TestCase4 this)
+2023-05-02 07:28:01.3650|INFO|browserstack_sdk.Program|
+2023-05-02 07:28:48.7101|INFO|browserstack_sdk.Program|Logo is displayed
+2023-05-02 07:28:48.7101|INFO|browserstack_sdk.Program|
+2023-05-02 07:28:48.8715|INFO|browserstack_sdk.Program|Results File: C:\Users\Roopa.Byrichetty\AppData\Local\Temp\.browserstack\results_dotnet\result_2\NUnit-Browserstack.xml
+2023-05-02 07:28:48.8715|INFO|browserstack_sdk.Program|
+2023-05-02 07:28:48.8782|INFO|browserstack_sdk.Program|Failed!  - Failed:    11, Passed:    16, Skipped:     0, Total:    27, Duration: 11 m 22 s - SingleTest.dll (net6.0)
+2023-05-02 07:28:48.9162|INFO|browserstack_sdk.Program|
+2023-05-02 07:28:48.9162|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_STAGE_Bentley.com\nunit-browserstack-sdk\NUnit-BrowserStack>echo "completed bat file" 
+2023-05-02 07:28:48.9162|INFO|browserstack_sdk.Program|"completed bat file"
+2023-05-02 07:29:22.4300|INFO|browserstack_sdk.Program|Logo is displayed
+2023-05-02 07:29:22.4300|INFO|browserstack_sdk.Program|
+2023-05-02 07:29:22.5066|INFO|browserstack_sdk.Program|Results File: C:\Users\Roopa.Byrichetty\AppData\Local\Temp\.browserstack\results_dotnet\result_0\NUnit-Browserstack.xml
+2023-05-02 07:29:22.5066|INFO|browserstack_sdk.Program|
+2023-05-02 07:29:22.5066|INFO|browserstack_sdk.Program|Failed!  - Failed:     7, Passed:    20, Skipped:     0, Total:    27, Duration: 11 m 56 s - SingleTest.dll (net6.0)
+2023-05-02 07:29:22.5439|INFO|browserstack_sdk.Program|
+2023-05-02 07:29:22.5439|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_STAGE_Bentley.com\nunit-browserstack-sdk\NUnit-BrowserStack>echo "completed bat file" 
+2023-05-02 07:29:22.5439|INFO|browserstack_sdk.Program|"completed bat file"
+2023-05-02 07:29:26.9702|INFO|browserstack_sdk.Program|Logo is displayed
+2023-05-02 07:29:26.9702|INFO|browserstack_sdk.Program|
+2023-05-02 07:29:27.0436|INFO|browserstack_sdk.Program|Results File: C:\Users\Roopa.Byrichetty\AppData\Local\Temp\.browserstack\results_dotnet\result_3\NUnit-Browserstack.xml
+2023-05-02 07:29:27.0436|INFO|browserstack_sdk.Program|
+2023-05-02 07:29:27.0496|INFO|browserstack_sdk.Program|Failed!  - Failed:     5, Passed:    22, Skipped:     0, Total:    27, Duration: 12 m - SingleTest.dll (net6.0)
+2023-05-02 07:29:27.0837|INFO|browserstack_sdk.Program|
+2023-05-02 07:29:27.0837|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_STAGE_Bentley.com\nunit-browserstack-sdk\NUnit-BrowserStack>echo "completed bat file" 
+2023-05-02 07:29:27.0837|INFO|browserstack_sdk.Program|"completed bat file"
+2023-05-02 07:29:30.8672|INFO|browserstack_sdk.Program|  Failed CheckChatonPLAXIS [25 s]
+2023-05-02 07:29:30.8672|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-02 07:29:30.8672|INFO|browserstack_sdk.Program|     Expected: True
+2023-05-02 07:29:30.8672|INFO|browserstack_sdk.Program|  But was:  False
+2023-05-02 07:29:30.8672|INFO|browserstack_sdk.Program|
+2023-05-02 07:29:30.8672|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-02 07:29:30.8672|INFO|browserstack_sdk.Program|     at TestScript.TestCase26.CheckChatonPLAXIS_Patch2(TestCase26 this)
+2023-05-02 07:29:30.8672|INFO|browserstack_sdk.Program|
+2023-05-02 07:29:30.8672|INFO|browserstack_sdk.Program|1)    at TestScript.TestCase26.CheckChatonPLAXIS_Patch2(TestCase26 this)
+2023-05-02 07:29:30.8672|INFO|browserstack_sdk.Program|
+2023-05-02 07:29:30.8672|INFO|browserstack_sdk.Program|
+2023-05-02 07:29:56.9419|INFO|browserstack_sdk.Program|Number of articles 16
+2023-05-02 07:29:56.9419|INFO|browserstack_sdk.Program|
+2023-05-02 07:30:26.1954|INFO|browserstack_sdk.Program|Search result text Keep calm and try something else. Check your spelling, search for a different term, or take a look at some of our featured software options below.
+2023-05-02 07:30:26.1954|INFO|browserstack_sdk.Program|
+2023-05-02 07:30:52.6423|INFO|browserstack_sdk.Program|  Failed SearchifSubNavExists_CADSoftware [26 s]
+2023-05-02 07:30:52.6423|INFO|browserstack_sdk.Program|  Error Message:
+2023-05-02 07:30:52.6423|INFO|browserstack_sdk.Program|     Expected: True
+2023-05-02 07:30:52.6423|INFO|browserstack_sdk.Program|  But was:  False
+2023-05-02 07:30:52.6423|INFO|browserstack_sdk.Program|
+2023-05-02 07:30:52.6423|INFO|browserstack_sdk.Program|  Stack Trace:
+2023-05-02 07:30:52.6423|INFO|browserstack_sdk.Program|     at TestScript.TestCase29.SearchifSubNavExists_CADSoftware_Patch2(TestCase29 this)
+2023-05-02 07:30:52.6423|INFO|browserstack_sdk.Program|
+2023-05-02 07:30:52.6423|INFO|browserstack_sdk.Program|1)    at TestScript.TestCase29.SearchifSubNavExists_CADSoftware_Patch2(TestCase29 this)
+2023-05-02 07:30:52.6423|INFO|browserstack_sdk.Program|
+2023-05-02 07:30:52.6423|INFO|browserstack_sdk.Program|
+2023-05-02 07:34:53.2629|INFO|browserstack_sdk.Program|Logo is displayed
+2023-05-02 07:34:53.2629|INFO|browserstack_sdk.Program|
+2023-05-02 07:34:53.3301|INFO|browserstack_sdk.Program|Results File: C:\Users\Roopa.Byrichetty\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+2023-05-02 07:34:53.3301|INFO|browserstack_sdk.Program|
+2023-05-02 07:34:53.3301|INFO|browserstack_sdk.Program|Failed!  - Failed:     6, Passed:    21, Skipped:     0, Total:    27, Duration: 17 m 26 s - SingleTest.dll (net6.0)
+2023-05-02 07:34:53.3681|INFO|browserstack_sdk.Program|
+2023-05-02 07:34:53.3681|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_STAGE_Bentley.com\nunit-browserstack-sdk\NUnit-BrowserStack>echo "completed bat file" 
+2023-05-02 07:34:53.3681|INFO|browserstack_sdk.Program|"completed bat file"
+2023-05-02 07:34:53.3681|INFO|browserstack_sdk.Program|Stopping local
+2023-05-02 07:34:55.9603|INFO|browserstack_sdk.utils|View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/01310fa19cd2c8e4bb72051ccbe430343bb09e71
+
+
+2023-05-02 07:34:56.0421|INFO|A.b|Cleaning up adapter
+2023-05-02 07:34:56.0460|INFO|A.b|Getting results from: C:\Users\Roopa.Byrichetty\AppData\Local\Temp\.browserstack
+2023-05-02 08:36:59.1733|INFO|A.b|Setting up adapter
+2023-05-02 08:36:59.1733|INFO|BStack.VisualStudio.TestAdapter.BStackTestExecutor|NUnit test stated from test explorer
+2023-05-02 08:36:59.1870|INFO|A.b|Invoking browserstack-sdk with args: --skip-build-browserstack "C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_PROD_Bentley.com\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net6.0\SingleTest.dll" --filter ""(FullyQualifiedName=TestScript.TestCase1.HomePageLoad|FullyQualifiedName=TestScript.TestCase10.ScrollToTop|FullyQualifiedName=TestScript.TestCase11.CheckHeaderExists|FullyQualifiedName=TestScript.TestCase12.CheckFooterExists|FullyQualifiedName=TestScript.TestCase13.CheckHeaderNavigationExists|FullyQualifiedName=TestScript.TestCase14.CheckSubHeaderNavigationExists|FullyQualifiedName=TestScript.TestCase15.CheckFooterNavExistence|FullyQualifiedName=TestScript.TestCase16.ProfileSignIn|FullyQualifiedName=TestScript.TestCase17.PageLoadTime|FullyQualifiedName=TestScript.TestCase18.CheckIframeloaded|FullyQualifiedName=TestScript.TestCase19.SearchNewsRoom|FullyQualifiedName=TestScript.TestCase2.SearchResources|FullyQualifiedName=TestScript.TestCase20.SearchChannelPartners|FullyQualifiedName=TestScript.TestCase21.SearchProductTrainingPartners|FullyQualifiedName=TestScript.TestCase22.SearchSoftware|FullyQualifiedName=TestScript.TestCase23.AccessibilityWidgetCheck|FullyQualifiedName=TestScript.TestCase24.AccessibilityWidgetFontSizeCheck|FullyQualifiedName=TestScript.TestCase25.CheckYoutubeVideo|FullyQualifiedName=TestScript.TestCase26.CheckChatonPLAXIS|FullyQualifiedName=TestScript.TestCase27.GenericSearchForTwoWords|FullyQualifiedName=TestScript.TestCase28.SearchForEmptyResults|FullyQualifiedName=TestScript.TestCase29.SearchifSubNavExists_CADSoftware|FullyQualifiedName=TestScript.TestCase3.GenericSearch|FullyQualifiedName=TestScript.TestCase4.VideoCheckAboutUS|FullyQualifiedName=TestScript.TestCase5.VideoCheckSynchro|FullyQualifiedName=TestScript.TestCase6.Pencil_banner|FullyQualifiedName=TestScript.TestCase9.CheckLogoloaded)""
+2023-05-15 00:44:59.8988|INFO|A.b|Setting up adapter
+2023-05-15 00:44:59.9131|INFO|BStack.VisualStudio.TestAdapter.BStackTestExecutor|NUnit test stated from test explorer
+2023-05-15 00:44:59.9131|INFO|A.b|Invoking browserstack-sdk with args: --skip-build-browserstack "C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_TestingCICD\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net5.0\SingleTest.dll" --filter ""(FullyQualifiedName=TestScript.TestCase1.HomePageLoad|FullyQualifiedName=TestScript.TestCase2.SearchResources)""
+2023-05-15 00:46:11.6103|INFO|A.b|Exec: dotnet browserstack-sdk --skip-build-browserstack "C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_TestingCICD\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net5.0\SingleTest.dll" --filter ""(FullyQualifiedName=TestScript.TestCase1.HomePageLoad|FullyQualifiedName=TestScript.TestCase2.SearchResources)""
+2023-05-15 00:46:11.6103|INFO|A.b|0 : 
+2023-05-15 00:45:02.0428|INFO|browserstack_sdk.Program|Detected Selenium version 4.7.0
+2023-05-15 00:45:02.2398|INFO|browserstack_sdk.Program|Detected dotnet version 7.0.203
+2023-05-15 00:45:02.7537|INFO|browserstack_sdk.Program|Starting local
+2023-05-15 00:45:08.0036|INFO|browserstack_sdk.Program|Local started
+2023-05-15 00:45:08.1029|INFO|browserstack_sdk.Program|
+2023-05-15 00:45:08.1029|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_TestingCICD\nunit-browserstack-sdk\NUnit-BrowserStack>echo "running bat file" 
+2023-05-15 00:45:08.1029|INFO|browserstack_sdk.Program|"running bat file"
+2023-05-15 00:45:08.1029|INFO|browserstack_sdk.Program|
+2023-05-15 00:45:08.1029|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_TestingCICD\nunit-browserstack-sdk\NUnit-BrowserStack>cd C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_TestingCICD\nunit-browserstack-sdk\NUnit-BrowserStack 
+2023-05-15 00:45:08.1029|INFO|browserstack_sdk.Program|
+2023-05-15 00:45:08.1029|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_TestingCICD\nunit-browserstack-sdk\NUnit-BrowserStack>dotnet test "C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_TestingCICD\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net5.0\SingleTest.dll" --filter "(FullyQualifiedName=TestScript.TestCase1.HomePageLoad|FullyQualifiedName=TestScript.TestCase2.SearchResources)" --no-build  "--logger:trx;LogFileName=C:\Users\Roopa.Byrichetty\AppData\Local\Temp\.browserstack\results_dotnet\result_0\NUnit-Browserstack.xml" 
+2023-05-15 00:45:08.1160|INFO|browserstack_sdk.Program|
+2023-05-15 00:45:08.1160|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_TestingCICD\nunit-browserstack-sdk\NUnit-BrowserStack>echo "running bat file" 
+2023-05-15 00:45:08.1160|INFO|browserstack_sdk.Program|"running bat file"
+2023-05-15 00:45:08.1160|INFO|browserstack_sdk.Program|
+2023-05-15 00:45:08.1160|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_TestingCICD\nunit-browserstack-sdk\NUnit-BrowserStack>cd C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_TestingCICD\nunit-browserstack-sdk\NUnit-BrowserStack 
+2023-05-15 00:45:08.1160|INFO|browserstack_sdk.Program|
+2023-05-15 00:45:08.1160|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_TestingCICD\nunit-browserstack-sdk\NUnit-BrowserStack>dotnet test "C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_TestingCICD\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net5.0\SingleTest.dll" --filter "(FullyQualifiedName=TestScript.TestCase1.HomePageLoad|FullyQualifiedName=TestScript.TestCase2.SearchResources)" --no-build  "--logger:trx;LogFileName=C:\Users\Roopa.Byrichetty\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml" 
+2023-05-15 00:45:08.1160|INFO|browserstack_sdk.Program|
+2023-05-15 00:45:08.1160|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_TestingCICD\nunit-browserstack-sdk\NUnit-BrowserStack>echo "running bat file" 
+2023-05-15 00:45:08.1160|INFO|browserstack_sdk.Program|"running bat file"
+2023-05-15 00:45:08.1160|INFO|browserstack_sdk.Program|
+2023-05-15 00:45:08.1160|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_TestingCICD\nunit-browserstack-sdk\NUnit-BrowserStack>cd C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_TestingCICD\nunit-browserstack-sdk\NUnit-BrowserStack 
+2023-05-15 00:45:08.1160|INFO|browserstack_sdk.Program|
+2023-05-15 00:45:08.1160|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_TestingCICD\nunit-browserstack-sdk\NUnit-BrowserStack>dotnet test "C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_TestingCICD\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net5.0\SingleTest.dll" --filter "(FullyQualifiedName=TestScript.TestCase1.HomePageLoad|FullyQualifiedName=TestScript.TestCase2.SearchResources)" --no-build  "--logger:trx;LogFileName=C:\Users\Roopa.Byrichetty\AppData\Local\Temp\.browserstack\results_dotnet\result_2\NUnit-Browserstack.xml" 
+2023-05-15 00:45:08.1311|INFO|browserstack_sdk.Program|
+2023-05-15 00:45:08.1311|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_TestingCICD\nunit-browserstack-sdk\NUnit-BrowserStack>echo "running bat file" 
+2023-05-15 00:45:08.1311|INFO|browserstack_sdk.Program|"running bat file"
+2023-05-15 00:45:08.1311|INFO|browserstack_sdk.Program|
+2023-05-15 00:45:08.1311|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_TestingCICD\nunit-browserstack-sdk\NUnit-BrowserStack>cd C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_TestingCICD\nunit-browserstack-sdk\NUnit-BrowserStack 
+2023-05-15 00:45:08.1311|INFO|browserstack_sdk.Program|
+2023-05-15 00:45:08.1311|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_TestingCICD\nunit-browserstack-sdk\NUnit-BrowserStack>dotnet test "C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_TestingCICD\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net5.0\SingleTest.dll" --filter "(FullyQualifiedName=TestScript.TestCase1.HomePageLoad|FullyQualifiedName=TestScript.TestCase2.SearchResources)" --no-build  "--logger:trx;LogFileName=C:\Users\Roopa.Byrichetty\AppData\Local\Temp\.browserstack\results_dotnet\result_3\NUnit-Browserstack.xml" 
+2023-05-15 00:45:08.2956|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+2023-05-15 00:45:08.3252|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+2023-05-15 00:45:08.3252|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+2023-05-15 00:45:08.3396|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+2023-05-15 00:45:08.4550|INFO|browserstack_sdk.Program|Microsoft (R) Test Execution Command Line Tool Version 17.5.0 (x64)
+2023-05-15 00:45:08.4550|INFO|browserstack_sdk.Program|Copyright (c) Microsoft Corporation.  All rights reserved.
+2023-05-15 00:45:08.4598|INFO|browserstack_sdk.Program|
+2023-05-15 00:45:08.4598|INFO|browserstack_sdk.Program|Microsoft (R) Test Execution Command Line Tool Version 17.5.0 (x64)
+2023-05-15 00:45:08.4598|INFO|browserstack_sdk.Program|Microsoft (R) Test Execution Command Line Tool Version 17.5.0 (x64)
+2023-05-15 00:45:08.4598|INFO|browserstack_sdk.Program|Copyright (c) Microsoft Corporation.  All rights reserved.
+2023-05-15 00:45:08.4598|INFO|browserstack_sdk.Program|Copyright (c) Microsoft Corporation.  All rights reserved.
+2023-05-15 00:45:08.4720|INFO|browserstack_sdk.Program|
+2023-05-15 00:45:08.4720|INFO|browserstack_sdk.Program|
+2023-05-15 00:45:08.4720|INFO|browserstack_sdk.Program|Microsoft (R) Test Execution Command Line Tool Version 17.5.0 (x64)
+2023-05-15 00:45:08.4720|INFO|browserstack_sdk.Program|Copyright (c) Microsoft Corporation.  All rights reserved.
+2023-05-15 00:45:08.4720|INFO|browserstack_sdk.Program|
+2023-05-15 00:45:08.5922|INFO|browserstack_sdk.Program|Starting test execution, please wait...
+2023-05-15 00:45:08.5922|INFO|browserstack_sdk.Program|Starting test execution, please wait...
+2023-05-15 00:45:08.5922|INFO|browserstack_sdk.Program|Starting test execution, please wait...
+2023-05-15 00:45:08.5922|INFO|browserstack_sdk.Program|Starting test execution, please wait...
+2023-05-15 00:45:08.6248|INFO|browserstack_sdk.Program|A total of 1 test files matched the specified pattern.
+2023-05-15 00:45:08.6248|INFO|browserstack_sdk.Program|A total of 1 test files matched the specified pattern.
+2023-05-15 00:45:08.6248|INFO|browserstack_sdk.Program|A total of 1 test files matched the specified pattern.
+2023-05-15 00:45:08.6248|INFO|browserstack_sdk.Program|A total of 1 test files matched the specified pattern.
+2023-05-15 00:45:09.0944|INFO|browserstack_sdk.Program|Failed to load extensions from file 'C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_TestingCICD\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net5.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+2023-05-15 00:45:09.0944|INFO|browserstack_sdk.Program|Failed to load extensions from file 'C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_TestingCICD\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net5.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+2023-05-15 00:45:09.1012|INFO|browserstack_sdk.Program|Failed to load extensions from file 'C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_TestingCICD\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net5.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+2023-05-15 00:45:09.1012|INFO|browserstack_sdk.Program|Failed to load extensions from file 'C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_TestingCICD\nunit-browserstack-sdk\NUnit-BrowserStack\bin\Debug\net5.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+2023-05-15 00:45:38.8095|INFO|browserstack_sdk.Program|Results File: C:\Users\Roopa.Byrichetty\AppData\Local\Temp\.browserstack\results_dotnet\result_2\NUnit-Browserstack.xml
+2023-05-15 00:45:38.8095|INFO|browserstack_sdk.Program|
+2023-05-15 00:45:38.8095|INFO|browserstack_sdk.Program|Passed!  - Failed:     0, Passed:     2, Skipped:     0, Total:     2, Duration: 28 s - SingleTest.dll (net5.0)
+2023-05-15 00:45:38.8442|INFO|browserstack_sdk.Program|
+2023-05-15 00:45:38.8442|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_TestingCICD\nunit-browserstack-sdk\NUnit-BrowserStack>echo "completed bat file" 
+2023-05-15 00:45:38.8442|INFO|browserstack_sdk.Program|"completed bat file"
+2023-05-15 00:45:52.5920|INFO|browserstack_sdk.Program|Results File: C:\Users\Roopa.Byrichetty\AppData\Local\Temp\.browserstack\results_dotnet\result_3\NUnit-Browserstack.xml
+2023-05-15 00:45:52.5920|INFO|browserstack_sdk.Program|
+2023-05-15 00:45:52.5920|INFO|browserstack_sdk.Program|Passed!  - Failed:     0, Passed:     2, Skipped:     0, Total:     2, Duration: 42 s - SingleTest.dll (net5.0)
+2023-05-15 00:45:52.6192|INFO|browserstack_sdk.Program|
+2023-05-15 00:45:52.6192|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_TestingCICD\nunit-browserstack-sdk\NUnit-BrowserStack>echo "completed bat file" 
+2023-05-15 00:45:52.6192|INFO|browserstack_sdk.Program|"completed bat file"
+2023-05-15 00:45:53.7406|INFO|browserstack_sdk.Program|Results File: C:\Users\Roopa.Byrichetty\AppData\Local\Temp\.browserstack\results_dotnet\result_0\NUnit-Browserstack.xml
+2023-05-15 00:45:53.7406|INFO|browserstack_sdk.Program|
+2023-05-15 00:45:53.7406|INFO|browserstack_sdk.Program|Passed!  - Failed:     0, Passed:     2, Skipped:     0, Total:     2, Duration: 43 s - SingleTest.dll (net5.0)
+2023-05-15 00:45:53.7815|INFO|browserstack_sdk.Program|
+2023-05-15 00:45:53.7815|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_TestingCICD\nunit-browserstack-sdk\NUnit-BrowserStack>echo "completed bat file" 
+2023-05-15 00:45:53.7815|INFO|browserstack_sdk.Program|"completed bat file"
+2023-05-15 00:46:08.9178|INFO|browserstack_sdk.Program|Results File: C:\Users\Roopa.Byrichetty\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+2023-05-15 00:46:08.9178|INFO|browserstack_sdk.Program|
+2023-05-15 00:46:08.9178|INFO|browserstack_sdk.Program|Passed!  - Failed:     0, Passed:     2, Skipped:     0, Total:     2, Duration: 58 s - SingleTest.dll (net5.0)
+2023-05-15 00:46:08.9604|INFO|browserstack_sdk.Program|
+2023-05-15 00:46:08.9604|INFO|browserstack_sdk.Program|C:\Users\Roopa.Byrichetty\source\repos\ParallelTest_TestingCICD\nunit-browserstack-sdk\NUnit-BrowserStack>echo "completed bat file" 
+2023-05-15 00:46:08.9604|INFO|browserstack_sdk.Program|"completed bat file"
+2023-05-15 00:46:08.9604|INFO|browserstack_sdk.Program|Stopping local
+2023-05-15 00:46:11.5399|INFO|browserstack_sdk.utils|View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/9a05ce80ef1969205be09a8fbadf644f9b318e20
+
+
+2023-05-15 00:46:11.6103|INFO|A.b|Cleaning up adapter
+2023-05-15 00:46:11.6139|INFO|A.b|Getting results from: C:\Users\Roopa.Byrichetty\AppData\Local\Temp\.browserstack
